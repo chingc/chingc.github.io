@@ -1,0 +1,122 @@
+a:link, a:visited {
+    color: #0000CC;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-size: 82%;
+}
+
+table {
+    table-layout: fixed;
+}
+
+/* title listing cells of the main page */
+#rankings td {
+    vertical-align: top;
+    width: 350px;
+}
+
+/* ranking cells of the ranking page */
+.djrank, .rivalrank {
+    vertical-align: top;
+}
+
+/* ranking table djicons */
+.djrank td:nth-child(2) img, .rivalrank td:nth-child(2) img {
+    width: 52px;
+    height: 32px;
+}
+
+/* 1st column of the ranking tables */
+.djrank th:nth-child(1), .djrank td:nth-child(1),
+.rivalrank th:nth-child(1), .rivalrank td:nth-child(1) {
+    text-align: center;
+    width: 50px;
+}
+
+/* 2nd column of the ranking tables */
+.djrank th:nth-child(2), .djrank td:nth-child(2),
+.rivalrank th:nth-child(2), .rivalrank td:nth-child(2) {
+    text-align: center;
+    width: 75px;
+}
+
+/* 3rd column of the ranking tables */
+.djrank th:nth-child(3), .djrank td:nth-child(3),
+.rivalrank th:nth-child(3), .rivalrank td:nth-child(3) {
+    text-align: left;
+    width: 125px;
+}
+
+/* 4th column of the ranking tables */
+.djrank th:nth-child(4), .djrank td:nth-child(4),
+.rivalrank th:nth-child(4), .rivalrank td:nth-child(4) {
+    text-align: left;
+    width: 100px;
+}
+
+/* personal/rival score tables */
+.tablesorter {
+    width: 475px;
+}
+
+/* 1st column of the personal/rival score tables */
+.tablesorter th:nth-child(1) {
+    text-align: left;
+    width: 250px;
+}
+
+/* 2nd, 3rd, and 4th column of the personal/rival score tables */
+.tablesorter th:nth-child(2), .tablesorter th:nth-child(3), .tablesorter th:nth-child(4) {
+    text-align: left;
+    width: 75px;
+}
+
+/* tab icons */
+#ranking p > img, #me_tabs p > img, .rival_tabs p > img {
+    vertical-align: middle;
+}
+
+/* stats box */
+#stats {
+    text-align: center;
+    width: 150px;
+}
+
+/* flashing gif clear lamp */
+.fullcombo {
+    background-image: url("../images/fullcombo.gif");
+}
+
+/* gold clear lamp */
+.exhardclear {
+    background-color: #FFD700;
+}
+
+/* light gray clear lamp */
+.hardclear {
+    background-color: #DDDDDD;
+}
+
+/* azure clear lamp */
+.normalclear {
+    background-color: #007FFF;
+}
+
+/* turquoise clear lamp */
+.easyclear {
+    background-color: #40E0D0;
+}
+
+#dedication {
+    margin: 100px 0px 0px 0px;
+}
+
+#footer {
+    margin: 0px 0px 50px 10px;
+}
