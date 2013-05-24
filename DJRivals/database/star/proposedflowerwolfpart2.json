@@ -1,1 +1,559 @@
-{"name": "Proposed, Flower, Wolf Part 2", "eyecatch": "proposedflowerwolfpart2.png", "icon": "proposedflowerwolfpart2_1.png", "ranking": [[1, "3050054834.png", "rewind", 299984], [2, "2750421429.png", "ApB", 299980], [3, "3050054834.png", "Reverse", 299975], [4, "3637801777.png", "Mr.K", 299974], [5, "759241391.png", "FPhoenix", 299950], [6, "2184453183.png", "seto-mai", 299948], [7, "3196281141.png", "MiST", 299340], [8, "3019220888.png", "Kaiyum", 298898], [9, "3151216143.png", "Jiendo", 298478], [10, "3853997423.png", "Sergio", 298465], [11, "2751607350.png", "Vyle", 297299], [12, "3012105362.png", "=yEaHJi=", 297188], [13, "3050054834.png", "typeMARS", 295604], [14, "3383656659.png", "INDRAS", 292125], [15, "3850439660.png", "Dangel", 292115], [16, "3522767440.png", "HyperSZX", 292113], [17, "3561902833.png", "Moolet", 292109], [18, "3673379407.png", "mongdy", 292093], [19, "3053612597.png", "DK4.0", 290947], [20, "3187979694.png", "h0uzii", 290415], [21, "2932648655.png", "Saika", 289646], [22, "3852811502.png", "AFPHS", 289150], [23, "3519209677.png", "adimetro", 288737], [24, "3887203211.png", "Weber91", 287437], [25, "3052426676.png", "Erwin", 286172], [26, "3267436401.png", "DONI", 285882], [27, "3193909299.png", "Braxton", 285357], [28, "3817233872.png", "K.3f", 285313], [29, "3051240755.png", "dToTb", 283737], [30, "3481260205.png", "Deizenga", 283486], [31, "3817233872.png", "Hazama", 283221], [32, "3487189810.png", "Nojomaga", 282793], [33, "3052426676.png", "IHSudn", 281939], [34, "3848067818.png", "RY", 280289], [35, "3602224147.png", "VESTRA", 280255], [36, "2145317790.png", "NEWS-FRA", 279912], [37, "3270994164.png", "G-raVe", 279411], [38, "3849253739.png", "KumaSan", 279368], [39, "3519209677.png", "Fayze", 276010], [40, "759241391.png", "TECHNIKA", 276008], [41, "2191568709.png", "Rizki", 275282], [42, "3927524525.png", "Mr.Ice", 274539], [43, "2151247395.png", "TecWitch", 271850], [44, "3059542202.png", "ChooChoo", 271702], [45, "3932268209.png", "Ragebob", 270758], [46, "2184453183.png", "NERO", 269490], [47, "3599852305.png", "Ryosuke", 268542], [48, "3487189810.png", "HANE", 266960], [49, "2185639104.png", "PopzQ", 266870], [50, "2942136023.png", "NateWolf", 266725], [51, "3381284817.png", "Ranny", 265685], [52, "3345707187.png", "guaplei", 259670], [53, "3817233872.png", "NosXF", 259543], [54, "3050054834.png", "MrWhippy", 259195], [55, "4049621968.png", "nubduck", 257346], [56, "2976527732.png", "Kyotsu", 256362], [57, "3010919441.png", "DJ.R-Ksr", 255968], [58, "3227115087.png", "86san", 254803], [59, "759241391.png", "Tea", 253200], [60, "3152402064.png", "xJujubee", 252970], [61, "3486003889.png", "ShinKami", 252371], [62, "3849253739.png", "T@T@l2", 251097], [63, "3849253739.png", "I", 250872], [64, "3817233872.png", "Tiakira", 249103], [65, "3092747990.png", "Kolache", 247837], [66, "3196281141.png", "Mozi", 247170], [67, "3270994164.png", "Chiky", 246377], [68, "3851625581.png", "HADO", 245358], [69, "3383656659.png", "Aoi", 243263], [70, "759241391.png", "NekoKami", 241508], [71, "3817233872.png", "Limit", 239941], [72, "2971784048.png", "Kruton6", 238782], [73, "3849253739.png", "Bourbon", 235106], [74, "3673379407.png", "Miffymon", 234522], [75, "2937392339.png", "Indie", 234138], [76, "3966659918.png", "JBR", 233535], [77, "3814862030.png", "SHADE", 223953], [78, "3852811502.png", "MonMotha", 220929], [79, "2221216734.png", "R1C3", 220897], [80, "2942136023.png", "Fragged", 220033], [81, "759241391.png", "PSOSUNA", 216429], [82, "3852811502.png", "Yrwei", 215577], [83, "2147689632.png", "Murderer", 214784], [84, "3151216143.png", "WALKEN", 210018], [85, "2751607350.png", "Licky", 201653], [86, "3270994164.png", "dracon", 198091], [87, "2938578260.png", "~Sch-war", 195689], [88, "3849253739.png", "Pokemon", 193757], [89, "3853997423.png", "NezDream", 181391]]}
+{
+ "name": "Proposed, Flower, Wolf Part 2", 
+ "eyecatch": "proposedflowerwolfpart2.png", 
+ "icon": "proposedflowerwolfpart2_1.png", 
+ "ranking": [
+  {
+   "rank": 1, 
+   "djicon": "3050054834.png", 
+   "djname": "rewind", 
+   "score": 299984
+  }, 
+  {
+   "rank": 2, 
+   "djicon": "2750421429.png", 
+   "djname": "ApB", 
+   "score": 299980
+  }, 
+  {
+   "rank": 3, 
+   "djicon": "3050054834.png", 
+   "djname": "Reverse", 
+   "score": 299975
+  }, 
+  {
+   "rank": 4, 
+   "djicon": "3637801777.png", 
+   "djname": "Mr.K", 
+   "score": 299974
+  }, 
+  {
+   "rank": 5, 
+   "djicon": "759241391.png", 
+   "djname": "FPhoenix", 
+   "score": 299950
+  }, 
+  {
+   "rank": 6, 
+   "djicon": "2184453183.png", 
+   "djname": "seto-mai", 
+   "score": 299948
+  }, 
+  {
+   "rank": 7, 
+   "djicon": "3196281141.png", 
+   "djname": "MiST", 
+   "score": 299340
+  }, 
+  {
+   "rank": 8, 
+   "djicon": "3019220888.png", 
+   "djname": "Kaiyum", 
+   "score": 298898
+  }, 
+  {
+   "rank": 9, 
+   "djicon": "3151216143.png", 
+   "djname": "Jiendo", 
+   "score": 298478
+  }, 
+  {
+   "rank": 10, 
+   "djicon": "3853997423.png", 
+   "djname": "Sergio", 
+   "score": 298465
+  }, 
+  {
+   "rank": 11, 
+   "djicon": "2751607350.png", 
+   "djname": "Vyle", 
+   "score": 297299
+  }, 
+  {
+   "rank": 12, 
+   "djicon": "3012105362.png", 
+   "djname": "=yEaHJi=", 
+   "score": 297188
+  }, 
+  {
+   "rank": 13, 
+   "djicon": "3050054834.png", 
+   "djname": "typeMARS", 
+   "score": 295604
+  }, 
+  {
+   "rank": 14, 
+   "djicon": "3383656659.png", 
+   "djname": "INDRAS", 
+   "score": 292125
+  }, 
+  {
+   "rank": 15, 
+   "djicon": "3850439660.png", 
+   "djname": "Dangel", 
+   "score": 292115
+  }, 
+  {
+   "rank": 16, 
+   "djicon": "3522767440.png", 
+   "djname": "HyperSZX", 
+   "score": 292113
+  }, 
+  {
+   "rank": 17, 
+   "djicon": "3561902833.png", 
+   "djname": "Moolet", 
+   "score": 292109
+  }, 
+  {
+   "rank": 18, 
+   "djicon": "3673379407.png", 
+   "djname": "mongdy", 
+   "score": 292093
+  }, 
+  {
+   "rank": 19, 
+   "djicon": "3053612597.png", 
+   "djname": "DK4.0", 
+   "score": 290947
+  }, 
+  {
+   "rank": 20, 
+   "djicon": "3187979694.png", 
+   "djname": "h0uzii", 
+   "score": 290415
+  }, 
+  {
+   "rank": 21, 
+   "djicon": "2932648655.png", 
+   "djname": "Saika", 
+   "score": 289646
+  }, 
+  {
+   "rank": 22, 
+   "djicon": "3852811502.png", 
+   "djname": "AFPHS", 
+   "score": 289150
+  }, 
+  {
+   "rank": 23, 
+   "djicon": "3519209677.png", 
+   "djname": "adimetro", 
+   "score": 288737
+  }, 
+  {
+   "rank": 24, 
+   "djicon": "3887203211.png", 
+   "djname": "Weber91", 
+   "score": 287437
+  }, 
+  {
+   "rank": 25, 
+   "djicon": "3052426676.png", 
+   "djname": "Erwin", 
+   "score": 286172
+  }, 
+  {
+   "rank": 26, 
+   "djicon": "3267436401.png", 
+   "djname": "DONI", 
+   "score": 285882
+  }, 
+  {
+   "rank": 27, 
+   "djicon": "3193909299.png", 
+   "djname": "Braxton", 
+   "score": 285357
+  }, 
+  {
+   "rank": 28, 
+   "djicon": "3817233872.png", 
+   "djname": "K.3f", 
+   "score": 285313
+  }, 
+  {
+   "rank": 29, 
+   "djicon": "2145317790.png", 
+   "djname": "dToTb", 
+   "score": 283737
+  }, 
+  {
+   "rank": 30, 
+   "djicon": "3481260205.png", 
+   "djname": "Deizenga", 
+   "score": 283486
+  }, 
+  {
+   "rank": 31, 
+   "djicon": "3817233872.png", 
+   "djname": "Hazama", 
+   "score": 283221
+  }, 
+  {
+   "rank": 32, 
+   "djicon": "3487189810.png", 
+   "djname": "Nojomaga", 
+   "score": 282793
+  }, 
+  {
+   "rank": 33, 
+   "djicon": "3052426676.png", 
+   "djname": "IHSudn", 
+   "score": 281939
+  }, 
+  {
+   "rank": 34, 
+   "djicon": "3848067818.png", 
+   "djname": "RY", 
+   "score": 280289
+  }, 
+  {
+   "rank": 35, 
+   "djicon": "3935825972.png", 
+   "djname": "VESTRA", 
+   "score": 280255
+  }, 
+  {
+   "rank": 36, 
+   "djicon": "2145317790.png", 
+   "djname": "NEWS-FRA", 
+   "score": 279912
+  }, 
+  {
+   "rank": 37, 
+   "djicon": "2821172081.png", 
+   "djname": "G-raVe", 
+   "score": 279411
+  }, 
+  {
+   "rank": 38, 
+   "djicon": "3849253739.png", 
+   "djname": "KumaSan", 
+   "score": 279368
+  }, 
+  {
+   "rank": 39, 
+   "djicon": "3519209677.png", 
+   "djname": "Fayze", 
+   "score": 276010
+  }, 
+  {
+   "rank": 40, 
+   "djicon": "759241391.png", 
+   "djname": "TECHNIKA", 
+   "score": 276008
+  }, 
+  {
+   "rank": 41, 
+   "djicon": "2191568709.png", 
+   "djname": "Rizki", 
+   "score": 275282
+  }, 
+  {
+   "rank": 42, 
+   "djicon": "3927524525.png", 
+   "djname": "Mr.Ice", 
+   "score": 274539
+  }, 
+  {
+   "rank": 43, 
+   "djicon": "2151247395.png", 
+   "djname": "TecWitch", 
+   "score": 271850
+  }, 
+  {
+   "rank": 44, 
+   "djicon": "3059542202.png", 
+   "djname": "ChooChoo", 
+   "score": 271702
+  }, 
+  {
+   "rank": 45, 
+   "djicon": "3932268209.png", 
+   "djname": "Ragebob", 
+   "score": 270758
+  }, 
+  {
+   "rank": 46, 
+   "djicon": "2184453183.png", 
+   "djname": "NERO", 
+   "score": 269490
+  }, 
+  {
+   "rank": 47, 
+   "djicon": "3599852305.png", 
+   "djname": "Ryosuke", 
+   "score": 268542
+  }, 
+  {
+   "rank": 48, 
+   "djicon": "3487189810.png", 
+   "djname": "HANE", 
+   "score": 266960
+  }, 
+  {
+   "rank": 49, 
+   "djicon": "2185639104.png", 
+   "djname": "PopzQ", 
+   "score": 266870
+  }, 
+  {
+   "rank": 50, 
+   "djicon": "2942136023.png", 
+   "djname": "NateWolf", 
+   "score": 266725
+  }, 
+  {
+   "rank": 51, 
+   "djicon": "3381284817.png", 
+   "djname": "Ranny", 
+   "score": 265685
+  }, 
+  {
+   "rank": 52, 
+   "djicon": "3345707187.png", 
+   "djname": "guaplei", 
+   "score": 259670
+  }, 
+  {
+   "rank": 53, 
+   "djicon": "3817233872.png", 
+   "djname": "NosXF", 
+   "score": 259543
+  }, 
+  {
+   "rank": 54, 
+   "djicon": "3050054834.png", 
+   "djname": "MrWhippy", 
+   "score": 259195
+  }, 
+  {
+   "rank": 55, 
+   "djicon": "3051240755.png", 
+   "djname": "nubduck", 
+   "score": 257346
+  }, 
+  {
+   "rank": 56, 
+   "djicon": "2976527732.png", 
+   "djname": "Kyotsu", 
+   "score": 256362
+  }, 
+  {
+   "rank": 57, 
+   "djicon": "3010919441.png", 
+   "djname": "DJ.R-Ksr", 
+   "score": 255968
+  }, 
+  {
+   "rank": 58, 
+   "djicon": "3227115087.png", 
+   "djname": "86san", 
+   "score": 254803
+  }, 
+  {
+   "rank": 59, 
+   "djicon": "759241391.png", 
+   "djname": "Tea", 
+   "score": 253200
+  }, 
+  {
+   "rank": 60, 
+   "djicon": "3152402064.png", 
+   "djname": "xJujubee", 
+   "score": 252970
+  }, 
+  {
+   "rank": 61, 
+   "djicon": "3486003889.png", 
+   "djname": "ShinKami", 
+   "score": 252371
+  }, 
+  {
+   "rank": 62, 
+   "djicon": "3849253739.png", 
+   "djname": "T@T@l2", 
+   "score": 251097
+  }, 
+  {
+   "rank": 63, 
+   "djicon": "3849253739.png", 
+   "djname": "I", 
+   "score": 250872
+  }, 
+  {
+   "rank": 64, 
+   "djicon": "3817233872.png", 
+   "djname": "Tiakira", 
+   "score": 249103
+  }, 
+  {
+   "rank": 65, 
+   "djicon": "3816047951.png", 
+   "djname": "Chikara", 
+   "score": 248376
+  }, 
+  {
+   "rank": 66, 
+   "djicon": "3092747990.png", 
+   "djname": "Kolache", 
+   "score": 247837
+  }, 
+  {
+   "rank": 67, 
+   "djicon": "3196281141.png", 
+   "djname": "Mozi", 
+   "score": 247170
+  }, 
+  {
+   "rank": 68, 
+   "djicon": "3270994164.png", 
+   "djname": "Chiky", 
+   "score": 246377
+  }, 
+  {
+   "rank": 69, 
+   "djicon": "3851625581.png", 
+   "djname": "HADO", 
+   "score": 245358
+  }, 
+  {
+   "rank": 70, 
+   "djicon": "3383656659.png", 
+   "djname": "Aoi", 
+   "score": 243263
+  }, 
+  {
+   "rank": 71, 
+   "djicon": "759241391.png", 
+   "djname": "NekoKami", 
+   "score": 241508
+  }, 
+  {
+   "rank": 72, 
+   "djicon": "3817233872.png", 
+   "djname": "Limit", 
+   "score": 239941
+  }, 
+  {
+   "rank": 73, 
+   "djicon": "3853997423.png", 
+   "djname": "bishop11", 
+   "score": 239627
+  }, 
+  {
+   "rank": 74, 
+   "djicon": "2971784048.png", 
+   "djname": "Kruton6", 
+   "score": 238782
+  }, 
+  {
+   "rank": 75, 
+   "djicon": "3849253739.png", 
+   "djname": "Bourbon", 
+   "score": 235106
+  }, 
+  {
+   "rank": 76, 
+   "djicon": "3673379407.png", 
+   "djname": "Miffymon", 
+   "score": 234522
+  }, 
+  {
+   "rank": 77, 
+   "djicon": "2937392339.png", 
+   "djname": "Indie", 
+   "score": 234138
+  }, 
+  {
+   "rank": 78, 
+   "djicon": "3966659918.png", 
+   "djname": "JBR", 
+   "score": 233535
+  }, 
+  {
+   "rank": 79, 
+   "djicon": "3814862030.png", 
+   "djname": "SHADE", 
+   "score": 223953
+  }, 
+  {
+   "rank": 80, 
+   "djicon": "3852811502.png", 
+   "djname": "MonMotha", 
+   "score": 220929
+  }, 
+  {
+   "rank": 81, 
+   "djicon": "2221216734.png", 
+   "djname": "R1C3", 
+   "score": 220897
+  }, 
+  {
+   "rank": 82, 
+   "djicon": "2942136023.png", 
+   "djname": "Fragged", 
+   "score": 220033
+  }, 
+  {
+   "rank": 83, 
+   "djicon": "759241391.png", 
+   "djname": "PSOSUNA", 
+   "score": 216429
+  }, 
+  {
+   "rank": 84, 
+   "djicon": "3852811502.png", 
+   "djname": "Yrwei", 
+   "score": 215577
+  }, 
+  {
+   "rank": 85, 
+   "djicon": "2147689632.png", 
+   "djname": "Murderer", 
+   "score": 214784
+  }, 
+  {
+   "rank": 86, 
+   "djicon": "3151216143.png", 
+   "djname": "WALKEN", 
+   "score": 210018
+  }, 
+  {
+   "rank": 87, 
+   "djicon": "3090376148.png", 
+   "djname": "DarkSkri", 
+   "score": 202313
+  }, 
+  {
+   "rank": 88, 
+   "djicon": "2751607350.png", 
+   "djname": "Licky", 
+   "score": 201653
+  }, 
+  {
+   "rank": 89, 
+   "djicon": "3270994164.png", 
+   "djname": "dracon", 
+   "score": 198091
+  }, 
+  {
+   "rank": 90, 
+   "djicon": "3486003889.png", 
+   "djname": "~Sch-war", 
+   "score": 195689
+  }, 
+  {
+   "rank": 91, 
+   "djicon": "3849253739.png", 
+   "djname": "Pokemon", 
+   "score": 193757
+  }, 
+  {
+   "rank": 92, 
+   "djicon": "3853997423.png", 
+   "djname": "NezDream", 
+   "score": 181391
+  }
+ ]
+}

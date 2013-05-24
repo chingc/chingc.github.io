@@ -1,1 +1,187 @@
-{"name": "Everything", "eyecatch": "everything.png", "icon": "everything_1.png", "ranking": [[1, "3637801777.png", "Mr.K", 299985], [2, "2220030813.png", "Dickey", 299146], [3, "3561902833.png", "neko~*", 297836], [4, "3267436401.png", "Fortune", 297831], [5, "3051240755.png", "dToTb", 297174], [6, "3019220888.png", "Kaiyum", 296549], [7, "2750421429.png", "ApB", 295279], [8, "3818419793.png", "DJ556", 295250], [9, "3520395598.png", "CSY24", 293967], [10, "3228301008.png", "KIDGAME", 293348], [11, "2751607350.png", "Vyle", 291443], [12, "3602224147.png", "VESTRA", 291382], [13, "3384842580.png", "FenFen", 291377], [14, "3050054834.png", "typeMARS", 290788], [15, "3052426676.png", "IHSudn", 289072], [16, "3644917303.png", "MuMu", 288830], [17, "3267436401.png", "DONI", 287406], [18, "3383656659.png", "Buungkre", 283693], [19, "3564274675.png", "Gurin", 281312], [20, "759241391.png", "BRAM", 280456], [21, "3191537457.png", "AnDy018", 278992], [22, "3519209677.png", "Fayze", 276579], [23, "3848067818.png", "Romey", 274797], [24, "3597480463.png", "Devin..", 264193], [25, "3849253739.png", "Pokemon", 263248], [26, "759241391.png", "INFInate", 260325], [27, "488216713.png", "PDiamanT", 251879], [28, "3890760974.png", "TENDER", 248384], [29, "3383656659.png", "Aoi", 227014], [30, "3191537457.png", "DJ8ight", 223146]]}
+{
+ "name": "Everything", 
+ "eyecatch": "everything.png", 
+ "icon": "everything_1.png", 
+ "ranking": [
+  {
+   "rank": 1, 
+   "djicon": "3637801777.png", 
+   "djname": "Mr.K", 
+   "score": 299985
+  }, 
+  {
+   "rank": 2, 
+   "djicon": "2220030813.png", 
+   "djname": "Dickey", 
+   "score": 299146
+  }, 
+  {
+   "rank": 3, 
+   "djicon": "3561902833.png", 
+   "djname": "neko~*", 
+   "score": 297836
+  }, 
+  {
+   "rank": 4, 
+   "djicon": "3267436401.png", 
+   "djname": "Fortune", 
+   "score": 297831
+  }, 
+  {
+   "rank": 5, 
+   "djicon": "2145317790.png", 
+   "djname": "dToTb", 
+   "score": 297174
+  }, 
+  {
+   "rank": 6, 
+   "djicon": "3019220888.png", 
+   "djname": "Kaiyum", 
+   "score": 296549
+  }, 
+  {
+   "rank": 7, 
+   "djicon": "2750421429.png", 
+   "djname": "ApB", 
+   "score": 295279
+  }, 
+  {
+   "rank": 8, 
+   "djicon": "3818419793.png", 
+   "djname": "DJ556", 
+   "score": 295250
+  }, 
+  {
+   "rank": 9, 
+   "djicon": "3520395598.png", 
+   "djname": "CSY24", 
+   "score": 293967
+  }, 
+  {
+   "rank": 10, 
+   "djicon": "3228301008.png", 
+   "djname": "KIDGAME", 
+   "score": 293348
+  }, 
+  {
+   "rank": 11, 
+   "djicon": "2751607350.png", 
+   "djname": "Vyle", 
+   "score": 291443
+  }, 
+  {
+   "rank": 12, 
+   "djicon": "3935825972.png", 
+   "djname": "VESTRA", 
+   "score": 291382
+  }, 
+  {
+   "rank": 13, 
+   "djicon": "3384842580.png", 
+   "djname": "FenFen", 
+   "score": 291377
+  }, 
+  {
+   "rank": 14, 
+   "djicon": "3050054834.png", 
+   "djname": "typeMARS", 
+   "score": 290788
+  }, 
+  {
+   "rank": 15, 
+   "djicon": "3052426676.png", 
+   "djname": "IHSudn", 
+   "score": 289072
+  }, 
+  {
+   "rank": 16, 
+   "djicon": "3644917303.png", 
+   "djname": "MuMu", 
+   "score": 288830
+  }, 
+  {
+   "rank": 17, 
+   "djicon": "3267436401.png", 
+   "djname": "DONI", 
+   "score": 287406
+  }, 
+  {
+   "rank": 18, 
+   "djicon": "3383656659.png", 
+   "djname": "Buungkre", 
+   "score": 283693
+  }, 
+  {
+   "rank": 19, 
+   "djicon": "3564274675.png", 
+   "djname": "Gurin", 
+   "score": 281312
+  }, 
+  {
+   "rank": 20, 
+   "djicon": "759241391.png", 
+   "djname": "BRAM", 
+   "score": 280456
+  }, 
+  {
+   "rank": 21, 
+   "djicon": "3191537457.png", 
+   "djname": "AnDy018", 
+   "score": 278992
+  }, 
+  {
+   "rank": 22, 
+   "djicon": "3519209677.png", 
+   "djname": "Fayze", 
+   "score": 276579
+  }, 
+  {
+   "rank": 23, 
+   "djicon": "3848067818.png", 
+   "djname": "Romey", 
+   "score": 274797
+  }, 
+  {
+   "rank": 24, 
+   "djicon": "3597480463.png", 
+   "djname": "Devin..", 
+   "score": 264193
+  }, 
+  {
+   "rank": 25, 
+   "djicon": "3849253739.png", 
+   "djname": "Pokemon", 
+   "score": 263248
+  }, 
+  {
+   "rank": 26, 
+   "djicon": "759241391.png", 
+   "djname": "INFInate", 
+   "score": 260325
+  }, 
+  {
+   "rank": 27, 
+   "djicon": "488216713.png", 
+   "djname": "PDiamanT", 
+   "score": 251879
+  }, 
+  {
+   "rank": 28, 
+   "djicon": "3890760974.png", 
+   "djname": "TENDER", 
+   "score": 248384
+  }, 
+  {
+   "rank": 29, 
+   "djicon": "3383656659.png", 
+   "djname": "Aoi", 
+   "score": 227014
+  }, 
+  {
+   "rank": 30, 
+   "djicon": "3191537457.png", 
+   "djname": "DJ8ight", 
+   "score": 223146
+  }
+ ]
+}

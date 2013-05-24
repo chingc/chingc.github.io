@@ -1,1 +1,265 @@
-{"name": "DJMAX", "eyecatch": "djmax.png", "icon": "djmax_1.png", "ranking": [[1, "3151216143.png", "Jiendo", 299998], [2, "3637801777.png", "Mr.K", 299996], [3, "2751607350.png", "Vyle", 299989], [4, "2750421429.png", "ApB", 299989], [5, "3019220888.png", "Kaiyum", 299985], [6, "3051240755.png", "dToTb", 299982], [7, "3862197481.png", "aisight", 299980], [8, "3595108621.png", "PSK", 299975], [9, "3267436401.png", "DONI", 299968], [10, "3927524525.png", "Mr.Ice", 298776], [11, "3193909299.png", "Topspin", 298758], [12, "3351636792.png", "ulLyAyyi", 297779], [13, "3520395598.png", "CSY24", 296772], [14, "3965473997.png", "DJxRival", 296765], [15, "3012105362.png", "=yEaHJi=", 296764], [16, "3853997423.png", "MrArdenZ", 293774], [17, "3636615856.png", "ShadeT", 293347], [18, "3019220888.png", "MatriX", 292338], [19, "3305385873.png", "Shadow", 292332], [20, "759241391.png", "kmsheng", 292327], [21, "3817233872.png", "LXHJR", 289766], [22, "3816047951.png", "Chikara", 289576], [23, "3050054834.png", "typeMARS", 288585], [24, "3518023756.png", "TaeNy", 288332], [25, "3019220888.png", "Zeldrick", 286581], [26, "3521581519.png", "Yuuki~", 286570], [27, "3345707187.png", "guaplei", 286334], [28, "3560716912.png", "Eluri000", 284574], [29, "3342149424.png", "Julzer", 284571], [30, "759241391.png", "TECHNIKA", 282979], [31, "3155959827.png", "reign", 282583], [32, "3270994164.png", "dracon", 264588], [33, "759241391.png", "gunawan", 264500], [34, "3811304267.png", "L.Y.N.S", 262970], [35, "759241391.png", "JONATHAN", 258582], [36, "4051993810.png", "MzFunky", 255038], [37, "494146318.png", "IMBA", 253693], [38, "2191568709.png", "AtOmMiC", 250684], [39, "2863865237.png", "Neek2251", 244582], [40, "3058356281.png", "philly", 241823], [41, "2942136023.png", "Fragged", 237396], [42, "3310129557.png", "Shing", 236957], [43, "2147689632.png", "Murderer", 227663]]}
+{
+ "name": "DJMAX", 
+ "eyecatch": "djmax.png", 
+ "icon": "djmax_1.png", 
+ "ranking": [
+  {
+   "rank": 1, 
+   "djicon": "3151216143.png", 
+   "djname": "Jiendo", 
+   "score": 299998
+  }, 
+  {
+   "rank": 2, 
+   "djicon": "3637801777.png", 
+   "djname": "Mr.K", 
+   "score": 299996
+  }, 
+  {
+   "rank": 3, 
+   "djicon": "2751607350.png", 
+   "djname": "Vyle", 
+   "score": 299989
+  }, 
+  {
+   "rank": 4, 
+   "djicon": "2750421429.png", 
+   "djname": "ApB", 
+   "score": 299989
+  }, 
+  {
+   "rank": 5, 
+   "djicon": "3019220888.png", 
+   "djname": "Kaiyum", 
+   "score": 299985
+  }, 
+  {
+   "rank": 6, 
+   "djicon": "2145317790.png", 
+   "djname": "dToTb", 
+   "score": 299982
+  }, 
+  {
+   "rank": 7, 
+   "djicon": "3862197481.png", 
+   "djname": "aisight", 
+   "score": 299980
+  }, 
+  {
+   "rank": 8, 
+   "djicon": "3595108621.png", 
+   "djname": "PSK", 
+   "score": 299975
+  }, 
+  {
+   "rank": 9, 
+   "djicon": "3267436401.png", 
+   "djname": "DONI", 
+   "score": 299968
+  }, 
+  {
+   "rank": 10, 
+   "djicon": "3927524525.png", 
+   "djname": "Mr.Ice", 
+   "score": 298776
+  }, 
+  {
+   "rank": 11, 
+   "djicon": "3193909299.png", 
+   "djname": "Topspin", 
+   "score": 298758
+  }, 
+  {
+   "rank": 12, 
+   "djicon": "3351636792.png", 
+   "djname": "ulLyAyyi", 
+   "score": 297779
+  }, 
+  {
+   "rank": 13, 
+   "djicon": "3520395598.png", 
+   "djname": "CSY24", 
+   "score": 296772
+  }, 
+  {
+   "rank": 14, 
+   "djicon": "3965473997.png", 
+   "djname": "DJxRival", 
+   "score": 296765
+  }, 
+  {
+   "rank": 15, 
+   "djicon": "3012105362.png", 
+   "djname": "=yEaHJi=", 
+   "score": 296764
+  }, 
+  {
+   "rank": 16, 
+   "djicon": "3853997423.png", 
+   "djname": "MrArdenZ", 
+   "score": 293774
+  }, 
+  {
+   "rank": 17, 
+   "djicon": "3383656659.png", 
+   "djname": "ShadeT", 
+   "score": 293347
+  }, 
+  {
+   "rank": 18, 
+   "djicon": "3019220888.png", 
+   "djname": "MatriX", 
+   "score": 292338
+  }, 
+  {
+   "rank": 19, 
+   "djicon": "3305385873.png", 
+   "djname": "Shadow", 
+   "score": 292332
+  }, 
+  {
+   "rank": 20, 
+   "djicon": "759241391.png", 
+   "djname": "kmsheng", 
+   "score": 292327
+  }, 
+  {
+   "rank": 21, 
+   "djicon": "3817233872.png", 
+   "djname": "LXHJR", 
+   "score": 289766
+  }, 
+  {
+   "rank": 22, 
+   "djicon": "3816047951.png", 
+   "djname": "Chikara", 
+   "score": 289576
+  }, 
+  {
+   "rank": 23, 
+   "djicon": "3050054834.png", 
+   "djname": "typeMARS", 
+   "score": 288585
+  }, 
+  {
+   "rank": 24, 
+   "djicon": "3518023756.png", 
+   "djname": "TaeNy", 
+   "score": 288332
+  }, 
+  {
+   "rank": 25, 
+   "djicon": "3019220888.png", 
+   "djname": "Zeldrick", 
+   "score": 286581
+  }, 
+  {
+   "rank": 26, 
+   "djicon": "3521581519.png", 
+   "djname": "Yuuki~", 
+   "score": 286570
+  }, 
+  {
+   "rank": 27, 
+   "djicon": "3345707187.png", 
+   "djname": "guaplei", 
+   "score": 286334
+  }, 
+  {
+   "rank": 28, 
+   "djicon": "3560716912.png", 
+   "djname": "Eluri000", 
+   "score": 284574
+  }, 
+  {
+   "rank": 29, 
+   "djicon": "3342149424.png", 
+   "djname": "Julzer", 
+   "score": 284571
+  }, 
+  {
+   "rank": 30, 
+   "djicon": "759241391.png", 
+   "djname": "TECHNIKA", 
+   "score": 282979
+  }, 
+  {
+   "rank": 31, 
+   "djicon": "3155959827.png", 
+   "djname": "reign", 
+   "score": 282583
+  }, 
+  {
+   "rank": 32, 
+   "djicon": "3270994164.png", 
+   "djname": "dracon", 
+   "score": 264588
+  }, 
+  {
+   "rank": 33, 
+   "djicon": "759241391.png", 
+   "djname": "gunawan", 
+   "score": 264500
+  }, 
+  {
+   "rank": 34, 
+   "djicon": "3811304267.png", 
+   "djname": "L.Y.N.S", 
+   "score": 262970
+  }, 
+  {
+   "rank": 35, 
+   "djicon": "759241391.png", 
+   "djname": "JONATHAN", 
+   "score": 258582
+  }, 
+  {
+   "rank": 36, 
+   "djicon": "4051993810.png", 
+   "djname": "MzFunky", 
+   "score": 255038
+  }, 
+  {
+   "rank": 37, 
+   "djicon": "494146318.png", 
+   "djname": "IMBA", 
+   "score": 253693
+  }, 
+  {
+   "rank": 38, 
+   "djicon": "2191568709.png", 
+   "djname": "AtOmMiC", 
+   "score": 250684
+  }, 
+  {
+   "rank": 39, 
+   "djicon": "2863865237.png", 
+   "djname": "Neek2251", 
+   "score": 244582
+  }, 
+  {
+   "rank": 40, 
+   "djicon": "3058356281.png", 
+   "djname": "philly", 
+   "score": 241823
+  }, 
+  {
+   "rank": 41, 
+   "djicon": "2942136023.png", 
+   "djname": "Fragged", 
+   "score": 237396
+  }, 
+  {
+   "rank": 42, 
+   "djicon": "3310129557.png", 
+   "djname": "Shing", 
+   "score": 236957
+  }, 
+  {
+   "rank": 43, 
+   "djicon": "2147689632.png", 
+   "djname": "Murderer", 
+   "score": 227663
+  }
+ ]
+}
