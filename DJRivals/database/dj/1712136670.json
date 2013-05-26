@@ -869,7 +869,7 @@
    0
   ], 
   "Feel ma Beat": [
-   1125, 
+   1126, 
    255030
   ], 
   "Fermion": [
@@ -1189,7 +1189,7 @@
    0
   ], 
   "Space of Soul": [
-   1011, 
+   1013, 
    274155
   ], 
   "Step": [
@@ -1201,7 +1201,7 @@
    0
   ], 
   "SuperNova": [
-   352, 
+   353, 
    288566
   ], 
   "SuperSonic": [
@@ -1307,7 +1307,7 @@
    0
   ], 
   "AD2222": [
-   507, 
+   508, 
    278521
   ], 
   "A.I": [
@@ -1323,7 +1323,7 @@
    0
   ], 
   "Angel": [
-   623, 
+   626, 
    287683
   ], 
   "Area 7": [
@@ -1339,7 +1339,7 @@
    0
   ], 
   "Bamboo on Bamboo": [
-   559, 
+   560, 
    282470
   ], 
   "Beat U Down": [
@@ -1363,11 +1363,11 @@
    0
   ], 
   "Black Swan": [
-   693, 
+   695, 
    281613
   ], 
   "Blythe": [
-   178, 
+   180, 
    289609
   ], 
   "Brand NEW Days": [
@@ -1435,7 +1435,7 @@
    0
   ], 
   "Dark Prism": [
-   571, 
+   572, 
    287512
   ], 
   "Dear my lady": [
@@ -1639,7 +1639,7 @@
    0
   ], 
   "Leave me Alone": [
-   163, 
+   164, 
    293490
   ], 
   "Love is Beautiful": [
@@ -1675,7 +1675,7 @@
    0
   ], 
   "Mellow D Fantasy": [
-   960, 
+   962, 
    284865
   ], 
   "Melody": [
@@ -1723,7 +1723,7 @@
    0
   ], 
   "Over the Rainbow": [
-   553, 
+   554, 
    286428
   ], 
   "PDM": [
@@ -1811,7 +1811,7 @@
    0
   ], 
   "SigNalize": [
-   226, 
+   227, 
    291534
   ], 
   "SIN": [
@@ -1965,7 +1965,7 @@
    289421
   ], 
   "Bamboo on Bamboo": [
-   218, 
+   219, 
    276747
   ], 
   "Beautiful Girl (Seth Vogt Electro Vanity Remix)": [
@@ -2013,7 +2013,7 @@
    0
   ], 
   "Colours of Sorrow": [
-   484, 
+   485, 
    286394
   ], 
   "Come to Me": [
@@ -2061,7 +2061,7 @@
    0
   ], 
   "EGG": [
-   300, 
+   301, 
    289216
   ], 
   "Emblem": [
@@ -2133,7 +2133,7 @@
    0
   ], 
   "Gone Astray": [
-   391, 
+   393, 
    265336
   ], 
   "Hanzup!": [
@@ -2157,7 +2157,7 @@
    0
   ], 
   "IF": [
-   591, 
+   592, 
    278978
   ], 
   "In My Heart": [
@@ -2181,7 +2181,7 @@
    0
   ], 
   "Just for Today": [
-   519, 
+   520, 
    274795
   ], 
   "Keys to the World": [
@@ -2233,7 +2233,7 @@
    0
   ], 
   "Mellow D Fantasy": [
-   811, 
+   812, 
    277901
   ], 
   "Melody": [
@@ -2265,7 +2265,7 @@
    293488
   ], 
   "Ooh La La": [
-   246, 
+   247, 
    290956
   ], 
   "OUT LAW - Reborn": [
@@ -2341,7 +2341,7 @@
    0
   ], 
   "SigNalize": [
-   295, 
+   297, 
    278111
   ], 
   "SIN": [
@@ -2393,7 +2393,7 @@
    0
   ], 
   "The Rain Maker": [
-   330, 
+   331, 
    283141
   ], 
   "To You": [
@@ -2405,11 +2405,11 @@
    0
   ], 
   "Wanna Be Your Lover": [
-   515, 
+   518, 
    282302
   ], 
   "Watch Your Step": [
-   28, 
+   29, 
    296872
   ], 
   "White Blue": [
@@ -2425,7 +2425,7 @@
    0
   ], 
   "You & Me": [
-   426, 
+   427, 
    285712
   ], 
   "Your Own Miracle": [
@@ -2456,7 +2456,7 @@
    0
   ], 
   "BRUTALIZER set": [
-   1037, 
+   1038, 
    1125562
   ], 
   "CHALLENGER set": [
@@ -2464,8 +2464,8 @@
    0
   ], 
   "CONQUEROR set": [
-   9999, 
-   0
+   202, 
+   1163992
   ], 
   "COTTON CANDY set": [
    9999, 
@@ -2520,7 +2520,7 @@
    0
   ], 
   "Jumping Original Version": [
-   896, 
+   897, 
    1140114
   ], 
   "MAXIMUM set": [
@@ -2540,7 +2540,7 @@
    0
   ], 
   "Radio Wave Set": [
-   999, 
+   1000, 
    1109872
   ], 
   "RAINBOW VOYAGE set": [
@@ -2552,7 +2552,7 @@
    0
   ], 
   "SATURDAY NIGHT set": [
-   1042, 
+   1043, 
    1097264
   ], 
   "Son of Sun - Extended Mix": [
@@ -2588,7 +2588,7 @@
    0
   ], 
   "Thor - Extended Mix": [
-   800, 
+   801, 
    1061522
   ], 
   "UNPLUGGED set": [
@@ -2602,7 +2602,7 @@
  }, 
  "mission": {
   "A to Z": [
-   978, 
+   980, 
    1710312
   ], 
   "Future Challenge": [
