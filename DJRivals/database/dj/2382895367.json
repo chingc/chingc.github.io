@@ -55,7 +55,7 @@
    0
   ], 
   "BEE-U-TIFUL": [
-   83, 
+   84, 
    266526
   ], 
   "Beyond The Future": [
@@ -75,7 +75,7 @@
    0
   ], 
   "Break!": [
-   124, 
+   125, 
    277433
   ], 
   "Burn It Down": [
@@ -87,11 +87,11 @@
    0
   ], 
   "Cherokee": [
-   78, 
+   79, 
    281062
   ], 
   "CLOSER": [
-   43, 
+   44, 
    286832
   ], 
   "Coastal Tempo": [
@@ -171,7 +171,7 @@
    0
   ], 
   "Dual Strikers": [
-   49, 
+   50, 
    289843
   ], 
   "EGG": [
@@ -215,7 +215,7 @@
    0
   ], 
   "Fate": [
-   120, 
+   122, 
    276294
   ], 
   "Feel ma Beat": [
@@ -235,7 +235,7 @@
    0
   ], 
   "Forever": [
-   82, 
+   83, 
    265238
   ], 
   "Freedom": [
@@ -271,7 +271,7 @@
    0
   ], 
   "Hanzup!": [
-   239, 
+   242, 
    255810
   ], 
   "Heart Beat Part. 2": [
@@ -299,15 +299,15 @@
    0
   ], 
   "In my Dream": [
-   68, 
+   69, 
    268896
   ], 
   "In My Heart": [
-   44, 
+   45, 
    292781
   ], 
   "In the Tdot": [
-   251, 
+   255, 
    287556
   ], 
   "I want You": [
@@ -395,7 +395,7 @@
    0
   ], 
   "Miles": [
-   90, 
+   92, 
    245077
   ], 
   "Mister": [
@@ -411,7 +411,7 @@
    0
   ], 
   "Nova(Mr.Funky Remix)": [
-   22, 
+   23, 
    295532
   ], 
   "Now a New Day": [
@@ -419,7 +419,7 @@
    0
   ], 
   "OBLIVION": [
-   112, 
+   113, 
    295530
   ], 
   "Ooh La La": [
@@ -435,7 +435,7 @@
    0
   ], 
   "Over the Rainbow": [
-   300, 
+   304, 
    248422
   ], 
   "PDM": [
@@ -443,11 +443,11 @@
    0
   ], 
   "Piano Concerto No.1": [
-   131, 
+   134, 
    270330
   ], 
   "Play The Future": [
-   213, 
+   220, 
    281558
   ], 
   "Pretty Girl": [
@@ -491,7 +491,7 @@
    254357
   ], 
   "Right Back": [
-   259, 
+   260, 
    252228
   ], 
   "RockSTAR": [
@@ -507,7 +507,7 @@
    0
   ], 
   "Season (Warm Mix)": [
-   39, 
+   40, 
    292119
   ], 
   "Secret World": [
@@ -531,7 +531,7 @@
    257607
   ], 
   "Someday": [
-   666, 
+   669, 
    257109
   ], 
   "SON OF SUN": [
@@ -559,7 +559,7 @@
    0
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   128, 
+   130, 
    277417
   ], 
   "Sweet Dream": [
@@ -567,11 +567,11 @@
    0
   ], 
   "Sweet Shining Shooting Star": [
-   92, 
+   95, 
    255583
   ], 
   "The Clear Blue Sky": [
-   985, 
+   989, 
    222007
   ], 
   "The Guilty": [
@@ -631,7 +631,7 @@
    0
   ], 
   "Y": [
-   181, 
+   185, 
    253889
   ], 
   "You & Me": [
@@ -643,12 +643,12 @@
    0
   ], 
   "You should get over me": [
-   309, 
+   310, 
    278904
   ], 
   "Zet(Mr.Funky Remix)": [
-   9999, 
-   0
+   18, 
+   295849
   ]
  }, 
  "nm": {
@@ -721,7 +721,7 @@
    0
   ], 
   "Brand NEW Days": [
-   1329, 
+   1330, 
    269729
   ], 
   "Break!": [
@@ -861,8 +861,8 @@
    0
   ], 
   "Fallin' in Luv": [
-   9999, 
-   0
+   830, 
+   273771
   ], 
   "Fate": [
    9999, 
@@ -925,7 +925,7 @@
    0
   ], 
   "Heart Beat Part. 2": [
-   2132, 
+   2136, 
    246578
   ], 
   "Heart of Witch": [
@@ -1021,7 +1021,7 @@
    0
   ], 
   "Lupin": [
-   2285, 
+   2288, 
    289694
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -1105,7 +1105,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   547, 
+   549, 
    299197
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1249,8 +1249,8 @@
    0
   ], 
   "Trip": [
-   9999, 
-   0
+   1124, 
+   280073
   ], 
   "Victim of Love": [
    9999, 
@@ -1743,7 +1743,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1963, 
+   1969, 
    279720
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1895,8 +1895,8 @@
    0
   ], 
   "Voyage": [
-   9999, 
-   0
+   814, 
+   244953
   ], 
   "Wanna Be Your Lover": [
    9999, 
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   2767, 
+   2775, 
    895379
   ], 
   "Raconteur": [
