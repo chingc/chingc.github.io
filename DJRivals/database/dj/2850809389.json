@@ -861,7 +861,7 @@
    0
   ], 
   "Fallin' in Luv": [
-   165, 
+   169, 
    299367
   ], 
   "Fate": [
@@ -1323,7 +1323,7 @@
    0
   ], 
   "Angel": [
-   556, 
+   557, 
    289148
   ], 
   "Area 7": [
@@ -1423,7 +1423,7 @@
    0
   ], 
   "Cypher Gate": [
-   549, 
+   553, 
    275484
   ], 
   "D2": [
@@ -1799,7 +1799,7 @@
    0
   ], 
   "Secret World": [
-   81, 
+   82, 
    298894
   ], 
   "Shoreline": [
@@ -1827,8 +1827,8 @@
    0
   ], 
   "Space of Soul": [
-   9999, 
-   0
+   525, 
+   279793
   ], 
   "Step": [
    9999, 
@@ -1855,7 +1855,7 @@
    0
   ], 
   "Sweet Shining Shooting Star": [
-   613, 
+   614, 
    278935
   ], 
   "The Clear Blue Sky": [
@@ -1965,7 +1965,7 @@
    0
   ], 
   "Bamboo on Bamboo": [
-   91, 
+   92, 
    285805
   ], 
   "Beautiful Girl (Seth Vogt Electro Vanity Remix)": [
@@ -2025,7 +2025,7 @@
    297763
   ], 
   "Cypher Gate": [
-   74, 
+   75, 
    284588
   ], 
   "D2": [
@@ -2069,11 +2069,11 @@
    0
   ], 
   "End of the Moonlight": [
-   240, 
-   285983
+   88, 
+   290946
   ], 
   "Enemy Storm": [
-   356, 
+   359, 
    277972
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -2261,7 +2261,7 @@
    0
   ], 
   "OBLIVION": [
-   443, 
+   445, 
    288715
   ], 
   "Ooh La La": [
@@ -2353,7 +2353,7 @@
    0
   ], 
   "SON OF SUN": [
-   182, 
+   183, 
    287712
   ], 
   "Step": [
@@ -2413,8 +2413,8 @@
    0
   ], 
   "White Blue": [
-   9999, 
-   0
+   107, 
+   291586
   ], 
   "Xeus": [
    9999, 
@@ -2602,7 +2602,7 @@
  }, 
  "mission": {
   "A to Z": [
-   1234, 
+   1237, 
    880656
   ], 
   "Future Challenge": [
