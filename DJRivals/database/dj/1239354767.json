@@ -689,8 +689,8 @@
    0
   ], 
   "Bamboo on Bamboo": [
-   1216, 
-   277376
+   855, 
+   282604
   ], 
   "Beat U Down": [
    9999, 
@@ -713,7 +713,7 @@
    0
   ], 
   "Black Swan": [
-   1076, 
+   1078, 
    279129
   ], 
   "Blythe": [
@@ -821,7 +821,7 @@
    0
   ], 
   "Dual Strikers": [
-   502, 
+   504, 
    283765
   ], 
   "EGG": [
@@ -1273,7 +1273,7 @@
    0
   ], 
   "Xeus": [
-   1460, 
+   1468, 
    285890
   ], 
   "XLASHER": [
@@ -1383,7 +1383,7 @@
    0
   ], 
   "Chemical Slave": [
-   746, 
+   747, 
    278117
   ], 
   "Cherokee": [
@@ -1415,7 +1415,7 @@
    0
   ], 
   "Cozy Quilt": [
-   845, 
+   849, 
    279421
   ], 
   "Creator": [
@@ -1463,7 +1463,7 @@
    0
   ], 
   "Drum Town": [
-   541, 
+   543, 
    279810
   ], 
   "Dual Strikers": [
@@ -1475,15 +1475,15 @@
    0
   ], 
   "Electronics": [
-   9999, 
-   0
+   912, 
+   263170
   ], 
   "Emblem": [
    9999, 
    0
   ], 
   "End of the Moonlight": [
-   591, 
+   593, 
    280902
   ], 
   "Enemy Storm": [
@@ -1839,8 +1839,8 @@
    0
   ], 
   "SuperNova": [
-   648, 
-   266399
+   639, 
+   266937
   ], 
   "SuperSonic": [
    9999, 
@@ -1859,7 +1859,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   838, 
+   843, 
    284942
   ], 
   "The Guilty": [
@@ -2013,7 +2013,7 @@
    0
   ], 
   "Colours of Sorrow": [
-   725, 
+   727, 
    282563
   ], 
   "Come to Me": [
@@ -2037,7 +2037,7 @@
    0
   ], 
   "Dear my lady": [
-   1055, 
+   1058, 
    274451
   ], 
   "Desperado(Nu skool Mix)": [
@@ -2145,7 +2145,7 @@
    0
   ], 
   "Heart of Witch": [
-   1477, 
+   1482, 
    269658
   ], 
   "HEXAD": [
@@ -2209,7 +2209,7 @@
    0
   ], 
   "Love mode": [
-   540, 
+   542, 
    292854
   ], 
   "Lover": [
@@ -2217,7 +2217,7 @@
    0
   ], 
   "Lupin": [
-   654, 
+   655, 
    284545
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -2281,11 +2281,11 @@
    0
   ], 
   "PDM": [
-   668, 
+   671, 
    274038
   ], 
   "Piano Concerto No.1": [
-   662, 
+   665, 
    273099
   ], 
   "Play The Future": [
@@ -2313,7 +2313,7 @@
    0
   ], 
   "Ready Now": [
-   576, 
+   579, 
    271850
   ], 
   "Remember": [
@@ -2345,7 +2345,7 @@
    0
   ], 
   "SIN": [
-   840, 
+   844, 
    269502
   ], 
   "Someday": [
@@ -2456,11 +2456,11 @@
    0
   ], 
   "BRUTALIZER set": [
-   1261, 
+   1262, 
    807304
   ], 
   "CHALLENGER set": [
-   251, 
+   252, 
    820243
   ], 
   "CONQUEROR set": [
@@ -2520,7 +2520,7 @@
    0
   ], 
   "Jumping Original Version": [
-   1264, 
+   1268, 
    1104076
   ], 
   "MAXIMUM set": [
@@ -2536,7 +2536,7 @@
    0
   ], 
   "Pretty Girl Original Version": [
-   1052, 
+   1055, 
    1087893
   ], 
   "Radio Wave Set": [
@@ -2556,7 +2556,7 @@
    0
   ], 
   "Son of Sun - Extended Mix": [
-   623, 
+   624, 
    1111973
   ], 
   "Sound Lab Set": [
@@ -2588,7 +2588,7 @@
    0
   ], 
   "Thor - Extended Mix": [
-   834, 
+   836, 
    1057954
   ], 
   "UNPLUGGED set": [
@@ -2596,13 +2596,13 @@
    0
   ], 
   "Y - Extended Mix": [
-   515, 
+   516, 
    1086044
   ]
  }, 
  "mission": {
   "A to Z": [
-   732, 
+   735, 
    4163613
   ], 
   "Future Challenge": [
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   2390, 
+   2400, 
    1777556
   ], 
   "Raconteur": [
@@ -2638,7 +2638,7 @@
    0
   ], 
   "TechniColor": [
-   719, 
+   720, 
    5154221
   ]
  }
