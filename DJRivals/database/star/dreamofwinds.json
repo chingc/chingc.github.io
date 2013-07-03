@@ -107,7 +107,7 @@
   }, 
   {
    "rank": 18, 
-   "djicon": "759241391.png", 
+   "djicon": "2191568709.png", 
    "djname": "Staccato", 
    "score": 299354
   }, 
@@ -125,7 +125,7 @@
   }, 
   {
    "rank": 21, 
-   "djicon": "2188010946.png", 
+   "djicon": "3935825972.png", 
    "djname": "NatMania", 
    "score": 298698
   }, 
@@ -365,55 +365,67 @@
   }, 
   {
    "rank": 61, 
+   "djicon": "759241391.png", 
+   "djname": "TECHNIKA", 
+   "score": 254431
+  }, 
+  {
+   "rank": 62, 
+   "djicon": "3343335345.png", 
+   "djname": "Ancient", 
+   "score": 253003
+  }, 
+  {
+   "rank": 63, 
    "djicon": "3227115087.png", 
    "djname": "Psyfren", 
    "score": 250876
   }, 
   {
-   "rank": 62, 
+   "rank": 64, 
    "djicon": "3965473997.png", 
    "djname": "Koryu", 
    "score": 248535
   }, 
   {
-   "rank": 63, 
+   "rank": 65, 
    "djicon": "2819986160.png", 
    "djname": "Tellah", 
    "score": 247617
   }, 
   {
-   "rank": 64, 
+   "rank": 66, 
    "djicon": "3345707187.png", 
    "djname": "guaplei", 
    "score": 247547
   }, 
   {
-   "rank": 65, 
+   "rank": 67, 
    "djicon": "2180895420.png", 
    "djname": "REAPER", 
    "score": 247112
   }, 
   {
-   "rank": 66, 
+   "rank": 68, 
    "djicon": "3193909299.png", 
    "djname": "Topspin", 
    "score": 225947
   }, 
   {
-   "rank": 67, 
+   "rank": 69, 
    "djicon": "2191568709.png", 
    "djname": "AtOmMiC", 
    "score": 210784
   }, 
   {
-   "rank": 68, 
+   "rank": 70, 
    "djicon": "2185639104.png", 
    "djname": "-TRANCE-", 
    "score": 209216
   }, 
   {
-   "rank": 69, 
-   "djicon": "3310129557.png", 
+   "rank": 71, 
+   "djicon": "3927524525.png", 
    "djname": "goldwin", 
    "score": 208617
   }
