@@ -713,7 +713,7 @@
    0
   ], 
   "Black Swan": [
-   1148, 
+   1150, 
    278607
   ], 
   "Blythe": [
@@ -1085,7 +1085,7 @@
    0
   ], 
   "Over the Rainbow": [
-   2024, 
+   2029, 
    260109
   ], 
   "PDM": [
@@ -1141,7 +1141,7 @@
    0
   ], 
   "Right Back": [
-   1914, 
+   1921, 
    244059
   ], 
   "RockSTAR": [
@@ -1273,7 +1273,7 @@
    0
   ], 
   "Xeus": [
-   876, 
+   877, 
    292325
   ], 
   "XLASHER": [
@@ -1315,7 +1315,7 @@
    0
   ], 
   "Airwave": [
-   1197, 
+   1201, 
    271241
   ], 
   "A life with You": [
@@ -1323,7 +1323,7 @@
    0
   ], 
   "Angel": [
-   820, 
+   822, 
    284674
   ], 
   "Area 7": [
@@ -1339,7 +1339,7 @@
    0
   ], 
   "Bamboo on Bamboo": [
-   799, 
+   803, 
    276534
   ], 
   "Beat U Down": [
@@ -1623,7 +1623,7 @@
    0
   ], 
   "Kung-Fu Rider": [
-   743, 
+   744, 
    275695
   ], 
   "La Campanella : Nu Rave": [
@@ -1703,7 +1703,7 @@
    0
   ], 
   "Now a New Day": [
-   884, 
+   887, 
    287912
   ], 
   "OBLIVION": [
@@ -1723,7 +1723,7 @@
    0
   ], 
   "Over the Rainbow": [
-   897, 
+   902, 
    279592
   ], 
   "PDM": [
@@ -1779,7 +1779,7 @@
    0
   ], 
   "Right Back": [
-   685, 
+   687, 
    275917
   ], 
   "RockSTAR": [
@@ -2021,7 +2021,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   663, 
+   665, 
    295542
   ], 
   "Cypher Gate": [
@@ -2065,11 +2065,11 @@
    0
   ], 
   "Emblem": [
-   773, 
+   774, 
    264711
   ], 
   "End of the Moonlight": [
-   653, 
+   654, 
    274791
   ], 
   "Enemy Storm": [
@@ -2077,7 +2077,7 @@
    0
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
-   638, 
+   639, 
    261818
   ], 
   "Eternal Fantasy": [
@@ -2097,7 +2097,7 @@
    0
   ], 
   "Fate": [
-   447, 
+   448, 
    290702
   ], 
   "Feel ma Beat": [
@@ -2125,8 +2125,8 @@
    0
   ], 
   "Ghost": [
-   713, 
-   276886
+   649, 
+   278404
   ], 
   "Give Me 5": [
    9999, 
@@ -2137,15 +2137,15 @@
    0
   ], 
   "Hanzup!": [
-   579, 
+   580, 
    263851
   ], 
   "Heart Beat Part. 2": [
-   532, 
+   533, 
    277881
   ], 
   "Heart of Witch": [
-   1787, 
+   1791, 
    264629
   ], 
   "HEXAD": [
@@ -2161,7 +2161,7 @@
    0
   ], 
   "In My Heart": [
-   678, 
+   679, 
    291233
   ], 
   "In the Tdot": [
@@ -2261,7 +2261,7 @@
    0
   ], 
   "OBLIVION": [
-   1751, 
+   1758, 
    272634
   ], 
   "Ooh La La": [
@@ -2285,7 +2285,7 @@
    0
   ], 
   "Piano Concerto No.1": [
-   799, 
+   800, 
    268766
   ], 
   "Play The Future": [
@@ -2349,7 +2349,7 @@
    0
   ], 
   "Someday": [
-   1014, 
+   1018, 
    287714
   ], 
   "SON OF SUN": [
@@ -2373,7 +2373,7 @@
    0
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   565, 
+   566, 
    284121
   ], 
   "Sweet Shining Shooting Star": [
@@ -2381,7 +2381,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   1019, 
+   1023, 
    274759
   ], 
   "The Guilty": [
@@ -2425,7 +2425,7 @@
    0
   ], 
   "You & Me": [
-   411, 
+   413, 
    286256
   ], 
   "Your Own Miracle": [
@@ -2520,7 +2520,7 @@
    0
   ], 
   "Jumping Original Version": [
-   456, 
+   457, 
    2233721
   ], 
   "MAXIMUM set": [
@@ -2556,7 +2556,7 @@
    0
   ], 
   "Son of Sun - Extended Mix": [
-   760, 
+   764, 
    1099988
   ], 
   "Sound Lab Set": [
@@ -2602,7 +2602,7 @@
  }, 
  "mission": {
   "A to Z": [
-   1168, 
+   1169, 
    890280
   ], 
   "Future Challenge": [
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   2966, 
+   2969, 
    889032
   ], 
   "Raconteur": [

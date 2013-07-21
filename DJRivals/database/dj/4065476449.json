@@ -725,7 +725,7 @@
    0
   ], 
   "Break!": [
-   2201, 
+   2203, 
    257989
   ], 
   "Burn It Down": [
@@ -789,8 +789,8 @@
    0
   ], 
   "Dear my lady": [
-   9999, 
-   0
+   759, 
+   269605
   ], 
   "Desperado": [
    9999, 
@@ -901,7 +901,7 @@
    0
   ], 
   "Get Down": [
-   1296, 
+   1303, 
    269157
   ], 
   "Ghost": [
@@ -929,11 +929,11 @@
    280142
   ], 
   "Heart of Witch": [
-   1301, 
+   1307, 
    280360
   ], 
   "Here in the Moment": [
-   567, 
+   568, 
    283579
   ], 
   "HEXAD": [
@@ -969,7 +969,7 @@
    0
   ], 
   "Jumping": [
-   2512, 
+   2516, 
    258990
   ], 
   "Jupiter Driving": [
@@ -993,7 +993,7 @@
    0
   ], 
   "Ladymade Star": [
-   1040, 
+   1042, 
    285499
   ], 
   "Landscape": [
@@ -1013,7 +1013,7 @@
    0
   ], 
   "Love mode": [
-   763, 
+   765, 
    282948
   ], 
   "Lover": [
@@ -1021,7 +1021,7 @@
    0
   ], 
   "Lupin": [
-   2680, 
+   2684, 
    287449
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -1093,7 +1093,7 @@
    0
   ], 
   "Piano Concerto No.1": [
-   2008, 
+   2011, 
    248555
   ], 
   "Play The Future": [
@@ -1105,7 +1105,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1460, 
+   1465, 
    286651
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1161,7 +1161,7 @@
    0
   ], 
   "Secret World": [
-   1345, 
+   1348, 
    280092
   ], 
   "Shoreline": [
@@ -1193,7 +1193,7 @@
    0
   ], 
   "Step": [
-   2384, 
+   2389, 
    287965
   ], 
   "STOP": [
@@ -1217,7 +1217,7 @@
    0
   ], 
   "Sweet Shining Shooting Star": [
-   660, 
+   661, 
    272145
   ], 
   "The Clear Blue Sky": [
@@ -1303,7 +1303,7 @@
  }, 
  "hd": {
   "ACCESS": [
-   1144, 
+   1146, 
    290775
   ], 
   "AD2222": [
@@ -1331,7 +1331,7 @@
    0
   ], 
   "Ask to Wind": [
-   436, 
+   437, 
    295857
   ], 
   "Ask to Wind -Live version-": [
@@ -1387,7 +1387,7 @@
    0
   ], 
   "Cherokee": [
-   898, 
+   900, 
    283252
   ], 
   "CLOSER": [
@@ -1407,7 +1407,7 @@
    0
   ], 
   "Come to Me": [
-   900, 
+   901, 
    259285
   ], 
   "Cosmic Fantastic Lovesong": [
@@ -1535,7 +1535,7 @@
    0
   ], 
   "Freedom": [
-   470, 
+   471, 
    285568
   ], 
   "Funky People": [
@@ -1631,7 +1631,7 @@
    0
   ], 
   "Ladymade Star": [
-   532, 
+   534, 
    287610
   ], 
   "Landscape": [
@@ -1651,7 +1651,7 @@
    0
   ], 
   "Love mode": [
-   967, 
+   970, 
    280892
   ], 
   "Lover": [
@@ -1735,8 +1735,8 @@
    0
   ], 
   "Play The Future": [
-   1371, 
-   266757
+   835, 
+   276591
   ], 
   "Pretty Girl": [
    9999, 
@@ -1775,7 +1775,7 @@
    0
   ], 
   "Remember": [
-   1114, 
+   1119, 
    261242
   ], 
   "Right Back": [
@@ -1843,7 +1843,7 @@
    0
   ], 
   "SuperSonic": [
-   793, 
+   795, 
    269427
   ], 
   "SuperSonic(Mr.Funky Remix)": [
@@ -1855,7 +1855,7 @@
    0
   ], 
   "Sweet Shining Shooting Star": [
-   664, 
+   666, 
    276794
   ], 
   "The Clear Blue Sky": [
@@ -1867,7 +1867,7 @@
    0
   ], 
   "The Last Dance": [
-   919, 
+   922, 
    259180
   ], 
   "The Night Stage": [
@@ -2105,7 +2105,7 @@
    0
   ], 
   "First Kiss": [
-   1680, 
+   1684, 
    288710
   ], 
   "Flea": [
@@ -2452,7 +2452,7 @@
    0
   ], 
   "BOY MEETS GIRL set": [
-   2100, 
+   2106, 
    261312
   ], 
   "BRUTALIZER set": [
