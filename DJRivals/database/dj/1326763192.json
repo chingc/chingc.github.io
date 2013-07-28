@@ -3,7 +3,7 @@
  "icon": "2903000630.png", 
  "star": {
   "ACCESS": [
-   574, 
+   576, 
    190162
   ], 
   "AD2222": [
@@ -91,8 +91,8 @@
    0
   ], 
   "CLOSER": [
-   9999, 
-   0
+   254, 
+   225550
   ], 
   "Coastal Tempo": [
    9999, 
@@ -191,7 +191,7 @@
    0
   ], 
   "Enemy Storm": [
-   619, 
+   621, 
    216064
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -203,7 +203,7 @@
    0
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
-   444, 
+   447, 
    255777
   ], 
   "Everything": [
@@ -239,7 +239,7 @@
    0
   ], 
   "Freedom": [
-   491, 
+   496, 
    211056
   ], 
   "Funky People": [
@@ -283,7 +283,7 @@
    0
   ], 
   "Here in the Moment": [
-   254, 
+   255, 
    274555
   ], 
   "HEXAD": [
@@ -335,7 +335,7 @@
    0
   ], 
   "Kung-Fu Rider": [
-   446, 
+   449, 
    227531
   ], 
   "La Campanella : Nu Rave": [
@@ -443,15 +443,15 @@
    0
   ], 
   "Piano Concerto No.1": [
-   9999, 
-   0
+   667, 
+   219617
   ], 
   "Play The Future": [
-   658, 
+   661, 
    259820
   ], 
   "Pretty Girl": [
-   915, 
+   921, 
    206611
   ], 
   "Proposed, Flower, Wolf Part 1": [
@@ -467,7 +467,7 @@
    0
   ], 
   "Puzzler": [
-   415, 
+   417, 
    219573
   ], 
   "Rage Of Demon": [
@@ -575,7 +575,7 @@
    0
   ], 
   "The Guilty": [
-   495, 
+   500, 
    210547
   ], 
   "The Last Dance": [
@@ -595,7 +595,7 @@
    0
   ], 
   "To You": [
-   410, 
+   415, 
    263112
   ], 
   "Trip": [
@@ -615,7 +615,7 @@
    0
   ], 
   "Watch Your Step": [
-   141, 
+   142, 
    282133
   ], 
   "White Blue": [
@@ -631,8 +631,8 @@
    0
   ], 
   "Y": [
-   9999, 
-   0
+   362, 
+   221643
   ], 
   "You & Me": [
    9999, 
@@ -681,7 +681,7 @@
    0
   ], 
   "Ask to Wind": [
-   393, 
+   394, 
    297188
   ], 
   "Ask to Wind -Live version-": [
@@ -693,7 +693,7 @@
    0
   ], 
   "Beat U Down": [
-   474, 
+   475, 
    272482
   ], 
   "Beautiful Girl (Seth Vogt Electro Vanity Remix)": [
@@ -713,7 +713,7 @@
    0
   ], 
   "Black Swan": [
-   1510, 
+   1516, 
    275003
   ], 
   "Blythe": [
@@ -737,7 +737,7 @@
    0
   ], 
   "Cherokee": [
-   1049, 
+   1051, 
    279913
   ], 
   "CLOSER": [
@@ -765,7 +765,7 @@
    0
   ], 
   "Cozy Quilt": [
-   202, 
+   203, 
    297291
   ], 
   "Creator": [
@@ -785,7 +785,7 @@
    0
   ], 
   "Dark Prism": [
-   1564, 
+   1567, 
    270511
   ], 
   "Dear my lady": [
@@ -889,7 +889,7 @@
    0
   ], 
   "Freedom": [
-   258, 
+   259, 
    291497
   ], 
   "Funky People": [
@@ -925,7 +925,7 @@
    0
   ], 
   "Heart Beat Part. 2": [
-   1845, 
+   1853, 
    255070
   ], 
   "Heart of Witch": [
@@ -953,7 +953,7 @@
    0
   ], 
   "In My Heart": [
-   1623, 
+   1629, 
    256166
   ], 
   "In the Tdot": [
@@ -969,7 +969,7 @@
    0
   ], 
   "Jumping": [
-   1461, 
+   1464, 
    278787
   ], 
   "Jupiter Driving": [
@@ -985,7 +985,7 @@
    0
   ], 
   "Kung-Fu Rider": [
-   718, 
+   720, 
    285436
   ], 
   "La Campanella : Nu Rave": [
@@ -1001,11 +1001,11 @@
    0
   ], 
   "Leave me Alone": [
-   1084, 
+   1086, 
    264370
   ], 
   "Love is Beautiful": [
-   1241, 
+   1244, 
    234319
   ], 
   "Lovely Hands": [
@@ -1013,7 +1013,7 @@
    0
   ], 
   "Love mode": [
-   730, 
+   732, 
    283928
   ], 
   "Lover": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   782, 
+   786, 
    296783
   ], 
   "MonoXide": [
@@ -1057,7 +1057,7 @@
    0
   ], 
   "My Heart, My Soul": [
-   660, 
+   662, 
    289531
   ], 
   "Nova(Mr.Funky Remix)": [
@@ -1069,7 +1069,7 @@
    0
   ], 
   "OBLIVION": [
-   1768, 
+   1774, 
    282978
   ], 
   "Ooh La La": [
@@ -1105,7 +1105,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   945, 
+   947, 
    296183
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1125,11 +1125,11 @@
    0
   ], 
   "Raise me up": [
-   1702, 
+   1706, 
    250676
   ], 
   "Ray of Illuminati": [
-   519, 
+   520, 
    280991
   ], 
   "Ready Now": [
@@ -1141,7 +1141,7 @@
    0
   ], 
   "Right Back": [
-   1418, 
+   1422, 
    259177
   ], 
   "RockSTAR": [
@@ -1157,7 +1157,7 @@
    0
   ], 
   "Season (Warm Mix)": [
-   1135, 
+   1142, 
    263388
   ], 
   "Secret World": [
@@ -1173,7 +1173,7 @@
    0
   ], 
   "SigNalize": [
-   2216, 
+   2221, 
    274468
   ], 
   "SIN": [
@@ -1193,7 +1193,7 @@
    0
   ], 
   "Step": [
-   3123, 
+   3134, 
    281801
   ], 
   "STOP": [
@@ -1205,7 +1205,7 @@
    0
   ], 
   "SuperSonic": [
-   515, 
+   517, 
    277846
   ], 
   "SuperSonic(Mr.Funky Remix)": [
@@ -1213,7 +1213,7 @@
    0
   ], 
   "Sweet Dream": [
-   2020, 
+   2028, 
    243839
   ], 
   "Sweet Shining Shooting Star": [
@@ -1269,7 +1269,7 @@
    294897
   ], 
   "White Blue": [
-   705, 
+   710, 
    281914
   ], 
   "Xeus": [
@@ -1281,7 +1281,7 @@
    0
   ], 
   "Y": [
-   1138, 
+   1142, 
    253526
   ], 
   "You & Me": [
@@ -1383,7 +1383,7 @@
    0
   ], 
   "Chemical Slave": [
-   1242, 
+   1243, 
    260766
   ], 
   "Cherokee": [
@@ -1391,7 +1391,7 @@
    0
   ], 
   "CLOSER": [
-   766, 
+   768, 
    265513
   ], 
   "Coastal Tempo": [
@@ -1415,7 +1415,7 @@
    0
   ], 
   "Cozy Quilt": [
-   948, 
+   949, 
    276628
   ], 
   "Creator": [
@@ -1439,7 +1439,7 @@
    0
   ], 
   "Dear my lady": [
-   168, 
+   169, 
    295174
   ], 
   "Desperado(Nu skool Mix)": [
@@ -1603,7 +1603,7 @@
    0
   ], 
   "Jealousy": [
-   381, 
+   383, 
    293307
   ], 
   "Jumping": [
@@ -1627,8 +1627,8 @@
    0
   ], 
   "La Campanella : Nu Rave": [
-   1555, 
-   263520
+   1443, 
+   266372
   ], 
   "Ladymade Star": [
    9999, 
@@ -1663,7 +1663,7 @@
    0
   ], 
   "Luv Flow(Funky House Mix)": [
-   250, 
+   251, 
    293452
   ], 
   "Luv is True": [
@@ -1727,7 +1727,7 @@
    0
   ], 
   "PDM": [
-   282, 
+   283, 
    288221
   ], 
   "Piano Concerto No.1": [
@@ -1735,7 +1735,7 @@
    0
   ], 
   "Play The Future": [
-   906, 
+   911, 
    275223
   ], 
   "Pretty Girl": [
@@ -2221,7 +2221,7 @@
    0
   ], 
   "Luv Flow(Funky House Mix)": [
-   492, 
+   493, 
    286068
   ], 
   "Luv is True": [
@@ -2281,8 +2281,8 @@
    0
   ], 
   "PDM": [
-   737, 
-   272211
+   637, 
+   275109
   ], 
   "Piano Concerto No.1": [
    9999, 

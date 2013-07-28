@@ -47,7 +47,7 @@
   }, 
   {
    "rank": 8, 
-   "djicon": "494146318.png", 
+   "djicon": "3966659918.png", 
    "djname": "ephann", 
    "score": 287781
   }, 
@@ -101,7 +101,7 @@
   }, 
   {
    "rank": 17, 
-   "djicon": "759241391.png", 
+   "djicon": "2185639104.png", 
    "djname": "DrasFove", 
    "score": 285880
   }, 
@@ -149,7 +149,7 @@
   }, 
   {
    "rank": 25, 
-   "djicon": "3561902833.png", 
+   "djicon": "3304199952.png", 
    "djname": "VerJe", 
    "score": 283993
   }, 
@@ -173,21 +173,21 @@
   }, 
   {
    "rank": 29, 
+   "djicon": "3148844301.png ", 
+   "djname": "STo", 
+   "score": 283529
+  }, 
+  {
+   "rank": 30, 
    "djicon": "3638987698.png", 
    "djname": "Spike", 
    "score": 283393
   }, 
   {
-   "rank": 30, 
+   "rank": 31, 
    "djicon": "3812490188.png", 
    "djname": "Forneus", 
    "score": 283091
-  }, 
-  {
-   "rank": 31, 
-   "djicon": "3148844301.png ", 
-   "djname": "STo", 
-   "score": 283018
   }, 
   {
    "rank": 32, 
@@ -515,7 +515,7 @@
   }, 
   {
    "rank": 86, 
-   "djicon": "3604595989.png", 
+   "djicon": "759241391.png", 
    "djname": "Ep1k", 
    "score": 277979
   }, 
@@ -671,7 +671,7 @@
   }, 
   {
    "rank": 112, 
-   "djicon": "3597480463.png", 
+   "djicon": "759241391.png", 
    "djname": "Rusli", 
    "score": 275133
   }, 
@@ -695,7 +695,7 @@
   }, 
   {
    "rank": 116, 
-   "djicon": "2823543923.png", 
+   "djicon": "2189196867.png", 
    "djname": "Cuy4Cuya", 
    "score": 274151
   }, 
@@ -785,30 +785,36 @@
   }, 
   {
    "rank": 131, 
+   "djicon": "3050054834.png", 
+   "djname": "Reverse", 
+   "score": 269520
+  }, 
+  {
+   "rank": 132, 
    "djicon": "3189165615.png", 
    "djname": "HAXX0RZ", 
    "score": 269415
   }, 
   {
-   "rank": 132, 
+   "rank": 133, 
    "djicon": "759241391.png", 
    "djname": "KENNETH", 
    "score": 269305
   }, 
   {
-   "rank": 133, 
+   "rank": 134, 
    "djicon": "3520395598.png", 
    "djname": "KokoBan", 
    "score": 268352
   }, 
   {
-   "rank": 134, 
+   "rank": 135, 
    "djicon": "2976527732.png", 
    "djname": "J.GO", 
    "score": 268210
   }, 
   {
-   "rank": 135, 
+   "rank": 136, 
    "djicon": "759241391.png", 
    "djname": "KERI", 
    "score": 263312

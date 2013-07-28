@@ -3,7 +3,7 @@
  "icon": "3308943636.png", 
  "star": {
   "ACCESS": [
-   328, 
+   329, 
    261985
   ], 
   "AD2222": [
@@ -191,7 +191,7 @@
    0
   ], 
   "Enemy Storm": [
-   583, 
+   585, 
    225779
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -215,7 +215,7 @@
    0
   ], 
   "Fate": [
-   558, 
+   562, 
    195512
   ], 
   "Feel ma Beat": [
@@ -227,7 +227,7 @@
    0
   ], 
   "First Kiss": [
-   414, 
+   417, 
    288281
   ], 
   "Flea": [
@@ -271,7 +271,7 @@
    0
   ], 
   "Hanzup!": [
-   505, 
+   506, 
    228681
   ], 
   "Heart Beat Part. 2": [
@@ -279,7 +279,7 @@
    0
   ], 
   "Heart of Witch": [
-   942, 
+   949, 
    224926
   ], 
   "Here in the Moment": [
@@ -311,7 +311,7 @@
    0
   ], 
   "I want You": [
-   902, 
+   906, 
    243585
   ], 
   "Jealousy": [
@@ -335,15 +335,15 @@
    0
   ], 
   "Kung-Fu Rider": [
-   314, 
+   317, 
    263969
   ], 
   "La Campanella : Nu Rave": [
-   658, 
+   664, 
    211392
   ], 
   "Ladymade Star": [
-   341, 
+   344, 
    261118
   ], 
   "Landscape": [
@@ -403,7 +403,7 @@
    0
   ], 
   "MonoXide": [
-   326, 
+   329, 
    231209
   ], 
   "My Heart, My Soul": [
@@ -419,7 +419,7 @@
    0
   ], 
   "OBLIVION": [
-   391, 
+   394, 
    285354
   ], 
   "Ooh La La": [
@@ -447,7 +447,7 @@
    0
   ], 
   "Play The Future": [
-   1580, 
+   1586, 
    196853
   ], 
   "Pretty Girl": [
@@ -491,7 +491,7 @@
    0
   ], 
   "Right Back": [
-   500, 
+   501, 
    224768
   ], 
   "RockSTAR": [
@@ -559,7 +559,7 @@
    0
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   520, 
+   522, 
    240140
   ], 
   "Sweet Dream": [
@@ -571,11 +571,11 @@
    0
   ], 
   "The Clear Blue Sky": [
-   1427, 
+   1433, 
    191673
   ], 
   "The Guilty": [
-   388, 
+   391, 
    228526
   ], 
   "The Last Dance": [
@@ -639,7 +639,7 @@
    0
   ], 
   "Your Own Miracle": [
-   488, 
+   492, 
    243580
   ], 
   "You should get over me": [
@@ -837,7 +837,7 @@
    0
   ], 
   "End of the Moonlight": [
-   1510, 
+   1514, 
    266748
   ], 
   "Enemy Storm": [
@@ -865,8 +865,8 @@
    0
   ], 
   "Fate": [
-   9999, 
-   0
+   1773, 
+   256195
   ], 
   "Feel ma Beat": [
    9999, 
@@ -881,7 +881,7 @@
    0
   ], 
   "Flea": [
-   976, 
+   977, 
    276377
   ], 
   "Forever": [
@@ -961,7 +961,7 @@
    0
   ], 
   "I want You": [
-   2727, 
+   2733, 
    260783
   ], 
   "Jealousy": [
@@ -993,7 +993,7 @@
    0
   ], 
   "Ladymade Star": [
-   1288, 
+   1294, 
    280349
   ], 
   "Landscape": [
@@ -1045,7 +1045,7 @@
    0
   ], 
   "Miles": [
-   744, 
+   747, 
    253009
   ], 
   "Mister": [
@@ -1069,7 +1069,7 @@
    0
   ], 
   "OBLIVION": [
-   1826, 
+   1832, 
    282345
   ], 
   "Ooh La La": [
@@ -1153,7 +1153,7 @@
    0
   ], 
   "Say It From Your Heart": [
-   1275, 
+   1282, 
    257690
   ], 
   "Season (Warm Mix)": [
@@ -1205,15 +1205,15 @@
    0
   ], 
   "SuperSonic": [
-   9999, 
-   0
+   1461, 
+   236083
   ], 
   "SuperSonic(Mr.Funky Remix)": [
    9999, 
    0
   ], 
   "Sweet Dream": [
-   1706, 
+   1712, 
    260390
   ], 
   "Sweet Shining Shooting Star": [
@@ -1277,7 +1277,7 @@
    0
   ], 
   "XLASHER": [
-   720, 
+   724, 
    240539
   ], 
   "Y": [
@@ -1289,7 +1289,7 @@
    0
   ], 
   "Your Own Miracle": [
-   1323, 
+   1329, 
    245140
   ], 
   "You should get over me": [
@@ -1297,8 +1297,8 @@
    0
   ], 
   "Zet(Mr.Funky Remix)": [
-   587, 
-   263911
+   558, 
+   269487
   ]
  }, 
  "hd": {
@@ -1523,7 +1523,7 @@
    0
   ], 
   "First Kiss": [
-   1883, 
+   1890, 
    265954
   ], 
   "Flea": [
@@ -1751,7 +1751,7 @@
    0
   ], 
   "Put Em Up": [
-   1435, 
+   1442, 
    255032
   ], 
   "Puzzler": [
@@ -2452,7 +2452,7 @@
    0
   ], 
   "BOY MEETS GIRL set": [
-   1965, 
+   1967, 
    522814
   ], 
   "BRUTALIZER set": [

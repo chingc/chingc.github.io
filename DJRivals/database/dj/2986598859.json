@@ -103,8 +103,8 @@
    0
   ], 
   "Colours of Sorrow": [
-   9999, 
-   0
+   364, 
+   233165
   ], 
   "Come to Me": [
    9999, 
@@ -219,8 +219,8 @@
    0
   ], 
   "Feel ma Beat": [
-   9999, 
-   0
+   96, 
+   267175
   ], 
   "Fermion": [
    9999, 
@@ -571,8 +571,8 @@
    0
   ], 
   "The Clear Blue Sky": [
-   9999, 
-   0
+   620, 
+   244410
   ], 
   "The Guilty": [
    9999, 
@@ -745,7 +745,7 @@
    0
   ], 
   "Coastal Tempo": [
-   559, 
+   560, 
    261391
   ], 
   "Color": [
@@ -949,7 +949,7 @@
    0
   ], 
   "In my Dream": [
-   777, 
+   781, 
    266970
   ], 
   "In My Heart": [
@@ -969,7 +969,7 @@
    0
   ], 
   "Jumping": [
-   2253, 
+   2261, 
    264728
   ], 
   "Jupiter Driving": [
@@ -981,7 +981,7 @@
    0
   ], 
   "Keys to the World": [
-   484, 
+   485, 
    277560
   ], 
   "Kung-Fu Rider": [
@@ -1053,7 +1053,7 @@
    0
   ], 
   "MonoXide": [
-   508, 
+   509, 
    283728
   ], 
   "My Heart, My Soul": [
@@ -1085,7 +1085,7 @@
    0
   ], 
   "Over the Rainbow": [
-   1104, 
+   1112, 
    275727
   ], 
   "PDM": [
@@ -1137,7 +1137,7 @@
    0
   ], 
   "Remember": [
-   602, 
+   607, 
    269829
   ], 
   "Right Back": [
@@ -1161,7 +1161,7 @@
    0
   ], 
   "Secret World": [
-   2380, 
+   2386, 
    252318
   ], 
   "Shoreline": [
@@ -1185,7 +1185,7 @@
    0
   ], 
   "SON OF SUN": [
-   1332, 
+   1339, 
    263603
   ], 
   "Space of Soul": [
@@ -1303,7 +1303,7 @@
  }, 
  "hd": {
   "ACCESS": [
-   1822, 
+   1831, 
    271037
   ], 
   "AD2222": [
@@ -1371,7 +1371,7 @@
    0
   ], 
   "Brand NEW Days": [
-   830, 
+   834, 
    283785
   ], 
   "Break!": [
@@ -1379,7 +1379,7 @@
    0
   ], 
   "Burn It Down": [
-   285, 
+   287, 
    290315
   ], 
   "Chemical Slave": [
@@ -1387,7 +1387,7 @@
    0
   ], 
   "Cherokee": [
-   302, 
+   303, 
    292434
   ], 
   "CLOSER": [
@@ -1431,7 +1431,7 @@
    0
   ], 
   "DARK ENVY": [
-   896, 
+   900, 
    280491
   ], 
   "Dark Prism": [
@@ -1483,11 +1483,11 @@
    0
   ], 
   "End of the Moonlight": [
-   1144, 
+   1148, 
    269810
   ], 
   "Enemy Storm": [
-   976, 
+   978, 
    266113
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -1543,11 +1543,11 @@
    0
   ], 
   "Fury": [
-   863, 
+   864, 
    257201
   ], 
   "Ghost": [
-   1544, 
+   1545, 
    257591
   ], 
   "Give Me 5": [
@@ -1571,7 +1571,7 @@
    0
   ], 
   "Heart of Witch": [
-   1836, 
+   1839, 
    260050
   ], 
   "Here in the Moment": [
@@ -1619,7 +1619,7 @@
    0
   ], 
   "Keys to the World": [
-   667, 
+   668, 
    270612
   ], 
   "Kung-Fu Rider": [
@@ -1703,7 +1703,7 @@
    0
   ], 
   "Now a New Day": [
-   1115, 
+   1119, 
    284629
   ], 
   "OBLIVION": [
@@ -1735,7 +1735,7 @@
    0
   ], 
   "Play The Future": [
-   1496, 
+   1501, 
    264085
   ], 
   "Pretty Girl": [
@@ -1743,7 +1743,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1528, 
+   1537, 
    288769
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1835,7 +1835,7 @@
    0
   ], 
   "STOP": [
-   420, 
+   422, 
    279427
   ], 
   "SuperNova": [
@@ -1847,7 +1847,7 @@
    0
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   919, 
+   926, 
    266966
   ], 
   "Sweet Dream": [
@@ -1859,11 +1859,11 @@
    0
   ], 
   "The Clear Blue Sky": [
-   502, 
+   503, 
    289984
   ], 
   "The Guilty": [
-   1066, 
+   1068, 
    258221
   ], 
   "The Last Dance": [
@@ -1927,7 +1927,7 @@
    0
   ], 
   "Your Own Miracle": [
-   780, 
+   784, 
    254172
   ], 
   "You should get over me": [
@@ -1985,7 +1985,7 @@
    0
   ], 
   "Brand NEW Days": [
-   1305, 
+   1309, 
    263145
   ], 
   "Break!": [
@@ -2001,7 +2001,7 @@
    0
   ], 
   "Cherokee": [
-   1568, 
+   1572, 
    264818
   ], 
   "Coastal Tempo": [
@@ -2045,7 +2045,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   1575, 
+   1580, 
    274914
   ], 
   "Dream Again": [
@@ -2085,7 +2085,7 @@
    0
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
-   1291, 
+   1293, 
    271583
   ], 
   "Everything": [
@@ -2097,7 +2097,7 @@
    0
   ], 
   "Fate": [
-   1738, 
+   1740, 
    280038
   ], 
   "Feel ma Beat": [
@@ -2193,7 +2193,7 @@
    0
   ], 
   "Ladymade Star": [
-   1352, 
+   1355, 
    261813
   ], 
   "Landscape": [
@@ -2508,7 +2508,7 @@
    0
   ], 
   "HEART BEAT set": [
-   487, 
+   490, 
    1100745
   ], 
   "Hyper Speed Set": [
@@ -2528,7 +2528,7 @@
    0
   ], 
   "NB Ranger - Nonstop Remix": [
-   478, 
+   480, 
    1113483
   ], 
   "ORIENTALISM set": [
