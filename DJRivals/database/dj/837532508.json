@@ -1,6 +1,6 @@
 {
  "name": "HybriKat", 
- "icon": "759241391.png", 
+ "icon": "2859121553.png", 
  "star": {
   "ACCESS": [
    9999, 
@@ -23,8 +23,8 @@
    0
   ], 
   "Angel": [
-   9999, 
-   0
+   118, 
+   262496
   ], 
   "Area 7": [
    9999, 
@@ -63,12 +63,12 @@
    0
   ], 
   "Black Swan": [
-   950, 
+   964, 
    246396
   ], 
   "Blythe": [
-   9999, 
-   0
+   239, 
+   228046
   ], 
   "Brand NEW Days": [
    9999, 
@@ -103,7 +103,7 @@
    0
   ], 
   "Colours of Sorrow": [
-   385, 
+   389, 
    229451
   ], 
   "Come to Me": [
@@ -143,7 +143,7 @@
    0
   ], 
   "Desperado": [
-   260, 
+   264, 
    247114
   ], 
   "Desperado(Nu skool Mix)": [
@@ -159,7 +159,7 @@
    0
   ], 
   "Dream Again": [
-   521, 
+   525, 
    263020
   ], 
   "Dream of Winds": [
@@ -171,7 +171,7 @@
    0
   ], 
   "Dual Strikers": [
-   364, 
+   366, 
    234345
   ], 
   "EGG": [
@@ -187,7 +187,7 @@
    0
   ], 
   "End of the Moonlight": [
-   415, 
+   424, 
    238009
   ], 
   "Enemy Storm": [
@@ -219,7 +219,7 @@
    0
   ], 
   "Feel ma Beat": [
-   165, 
+   166, 
    252298
   ], 
   "Fermion": [
@@ -247,20 +247,20 @@
    0
   ], 
   "Fury": [
-   200, 
+   202, 
    255140
   ], 
   "Get Down": [
-   323, 
+   327, 
    267238
   ], 
   "Ghost": [
-   64, 
+   65, 
    263319
   ], 
   "Give Me 5": [
-   9999, 
-   0
+   70, 
+   267271
   ], 
   "Gone Astray": [
    9999, 
@@ -275,7 +275,7 @@
    0
   ], 
   "Heart Beat Part. 2": [
-   456, 
+   463, 
    261460
   ], 
   "Heart of Witch": [
@@ -331,11 +331,11 @@
    0
   ], 
   "Keys to the World": [
-   244, 
+   246, 
    209296
   ], 
   "Kung-Fu Rider": [
-   431, 
+   438, 
    236694
   ], 
   "La Campanella : Nu Rave": [
@@ -351,7 +351,7 @@
    0
   ], 
   "Leave me Alone": [
-   255, 
+   256, 
    252555
   ], 
   "Love is Beautiful": [
@@ -407,7 +407,7 @@
    0
   ], 
   "My Heart, My Soul": [
-   281, 
+   282, 
    276847
   ], 
   "Nova(Mr.Funky Remix)": [
@@ -419,7 +419,7 @@
    0
   ], 
   "OBLIVION": [
-   1330, 
+   1338, 
    211909
   ], 
   "Ooh La La": [
@@ -491,7 +491,7 @@
    0
   ], 
   "Right Back": [
-   365, 
+   371, 
    241409
   ], 
   "RockSTAR": [
@@ -503,7 +503,7 @@
    0
   ], 
   "Say It From Your Heart": [
-   187, 
+   188, 
    267633
   ], 
   "Season (Warm Mix)": [
@@ -511,7 +511,7 @@
    0
   ], 
   "Secret World": [
-   117, 
+   119, 
    290129
   ], 
   "Shoreline": [
@@ -523,19 +523,19 @@
    0
   ], 
   "SigNalize": [
-   475, 
+   483, 
    226133
   ], 
   "SIN": [
-   301, 
+   304, 
    225133
   ], 
   "Someday": [
-   711, 
+   720, 
    256869
   ], 
   "SON OF SUN": [
-   402, 
+   405, 
    214753
   ], 
   "Space of Soul": [
@@ -559,7 +559,7 @@
    0
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   475, 
+   476, 
    243711
   ], 
   "Sweet Dream": [
@@ -571,7 +571,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   1437, 
+   1449, 
    191569
   ], 
   "The Guilty": [
@@ -587,7 +587,7 @@
    0
   ], 
   "The Rain Maker": [
-   791, 
+   797, 
    215505
   ], 
   "Thor": [
@@ -631,7 +631,7 @@
    0
   ], 
   "Y": [
-   145, 
+   146, 
    263415
   ], 
   "You & Me": [
@@ -639,11 +639,11 @@
    0
   ], 
   "Your Own Miracle": [
-   544, 
+   551, 
    238508
   ], 
   "You should get over me": [
-   507, 
+   511, 
    267902
   ], 
   "Zet(Mr.Funky Remix)": [
@@ -653,7 +653,7 @@
  }, 
  "nm": {
   "ACCESS": [
-   1720, 
+   1727, 
    235823
   ], 
   "AD2222": [
@@ -701,7 +701,7 @@
    0
   ], 
   "Become Myself": [
-   934, 
+   935, 
    264504
   ], 
   "BEE-U-TIFUL": [
@@ -721,7 +721,7 @@
    0
   ], 
   "Brand NEW Days": [
-   1398, 
+   1404, 
    267644
   ], 
   "Break!": [
@@ -801,7 +801,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   2514, 
+   2530, 
    235394
   ], 
   "DJMAX": [
@@ -841,15 +841,15 @@
    0
   ], 
   "Enemy Storm": [
-   9999, 
-   0
+   1319, 
+   257260
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
    9999, 
    0
   ], 
   "Eternal Fantasy": [
-   1747, 
+   1762, 
    251007
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -877,7 +877,7 @@
    0
   ], 
   "First Kiss": [
-   1097, 
+   1102, 
    290150
   ], 
   "Flea": [
@@ -885,11 +885,11 @@
    0
   ], 
   "Forever": [
-   9999, 
-   0
+   1042, 
+   250735
   ], 
   "Freedom": [
-   1367, 
+   1378, 
    242106
   ], 
   "Funky People": [
@@ -929,7 +929,7 @@
    0
   ], 
   "Heart of Witch": [
-   2986, 
+   3013, 
    244152
   ], 
   "Here in the Moment": [
@@ -957,20 +957,20 @@
    0
   ], 
   "In the Tdot": [
-   770, 
+   773, 
    296790
   ], 
   "I want You": [
-   9999, 
-   0
+   1793, 
+   276301
   ], 
   "Jealousy": [
    9999, 
    0
   ], 
   "Jumping": [
-   9999, 
-   0
+   2657, 
+   255408
   ], 
   "Jupiter Driving": [
    9999, 
@@ -1005,7 +1005,7 @@
    0
   ], 
   "Love is Beautiful": [
-   1284, 
+   1296, 
    232271
   ], 
   "Lovely Hands": [
@@ -1013,15 +1013,15 @@
    0
   ], 
   "Love mode": [
-   9999, 
-   0
+   1233, 
+   271234
   ], 
   "Lover": [
    9999, 
    0
   ], 
   "Lupin": [
-   3588, 
+   3605, 
    277178
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   3327, 
+   3347, 
    258257
   ], 
   "MonoXide": [
@@ -1057,23 +1057,23 @@
    0
   ], 
   "My Heart, My Soul": [
-   1409, 
+   1417, 
    264973
   ], 
   "Nova(Mr.Funky Remix)": [
-   9999, 
-   0
+   1217, 
+   262996
   ], 
   "Now a New Day": [
    9999, 
    0
   ], 
   "OBLIVION": [
-   9999, 
-   0
+   1735, 
+   283477
   ], 
   "Ooh La La": [
-   1805, 
+   1828, 
    251064
   ], 
   "OUT LAW - Reborn": [
@@ -1097,15 +1097,15 @@
    0
   ], 
   "Play The Future": [
-   9999, 
-   0
+   1127, 
+   272238
   ], 
   "Pretty Girl": [
    9999, 
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1016, 
+   1024, 
    295089
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1125,7 +1125,7 @@
    0
   ], 
   "Raise me up": [
-   1354, 
+   1360, 
    264652
   ], 
   "Ray of Illuminati": [
@@ -1157,7 +1157,7 @@
    0
   ], 
   "Season (Warm Mix)": [
-   930, 
+   935, 
    276836
   ], 
   "Secret World": [
@@ -1181,8 +1181,8 @@
    0
   ], 
   "Someday": [
-   9999, 
-   0
+   1391, 
+   275107
   ], 
   "SON OF SUN": [
    9999, 
@@ -1229,8 +1229,8 @@
    0
   ], 
   "The Last Dance": [
-   9999, 
-   0
+   1086, 
+   239734
   ], 
   "The Night Stage": [
    9999, 
@@ -1245,8 +1245,8 @@
    0
   ], 
   "To You": [
-   9999, 
-   0
+   1693, 
+   249358
   ], 
   "Trip": [
    9999, 
@@ -1289,7 +1289,7 @@
    0
   ], 
   "Your Own Miracle": [
-   1522, 
+   1526, 
    238629
   ], 
   "You should get over me": [
