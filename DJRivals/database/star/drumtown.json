@@ -65,21 +65,21 @@
   }, 
   {
    "rank": 11, 
-   "djicon": "3935825972.png", 
+   "djicon": "3148844301.png ", 
+   "djname": "Fortune", 
+   "score": 292222
+  }, 
+  {
+   "rank": 12, 
+   "djicon": "2186825025.png", 
    "djname": "VESTRA", 
    "score": 291791
   }, 
   {
-   "rank": 12, 
+   "rank": 13, 
    "djicon": "3090376148.png", 
    "djname": "Ibarra", 
    "score": 290033
-  }, 
-  {
-   "rank": 13, 
-   "djicon": "3148844301.png ", 
-   "djname": "Fortune", 
-   "score": 287934
   }, 
   {
    "rank": 14, 
@@ -107,7 +107,7 @@
   }, 
   {
    "rank": 18, 
-   "djicon": "3345707187.png", 
+   "djicon": "2191568709.png", 
    "djname": "guaplei", 
    "score": 273597
   }, 

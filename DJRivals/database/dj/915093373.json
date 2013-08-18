@@ -1,6 +1,6 @@
 {
  "name": "akuma", 
- "icon": "2940950102.png", 
+ "icon": "2818800239.png", 
  "star": {
   "ACCESS": [
    9999, 
@@ -199,7 +199,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   245, 
+   250, 
    271712
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -283,7 +283,7 @@
    0
   ], 
   "Here in the Moment": [
-   637, 
+   646, 
    239270
   ], 
   "HEXAD": [
@@ -371,7 +371,7 @@
    0
   ], 
   "Lupin": [
-   1565, 
+   1583, 
    233305
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -391,7 +391,7 @@
    0
   ], 
   "Melody": [
-   471, 
+   481, 
    210398
   ], 
   "Miles": [
@@ -455,7 +455,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   208, 
+   212, 
    274877
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -507,7 +507,7 @@
    0
   ], 
   "Season (Warm Mix)": [
-   188, 
+   190, 
    265439
   ], 
   "Secret World": [
@@ -653,7 +653,7 @@
  }, 
  "nm": {
   "ACCESS": [
-   1078, 
+   1088, 
    279845
   ], 
   "AD2222": [
@@ -681,7 +681,7 @@
    0
   ], 
   "Ask to Wind": [
-   1271, 
+   1279, 
    267424
   ], 
   "Ask to Wind -Live version-": [
@@ -689,7 +689,7 @@
    0
   ], 
   "Bamboo on Bamboo": [
-   1734, 
+   1745, 
    269990
   ], 
   "Beat U Down": [
@@ -761,11 +761,11 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   2320, 
+   2334, 
    243100
   ], 
   "Cozy Quilt": [
-   1592, 
+   1601, 
    211740
   ], 
   "Creator": [
@@ -841,7 +841,7 @@
    0
   ], 
   "Enemy Storm": [
-   1273, 
+   1282, 
    259464
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -849,7 +849,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   1050, 
+   1061, 
    275189
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -877,11 +877,11 @@
    0
   ], 
   "First Kiss": [
-   832, 
+   838, 
    293211
   ], 
   "Flea": [
-   1146, 
+   1153, 
    271269
   ], 
   "Forever": [
@@ -905,7 +905,7 @@
    0
   ], 
   "Ghost": [
-   1480, 
+   1481, 
    272978
   ], 
   "Give Me 5": [
@@ -929,11 +929,11 @@
    0
   ], 
   "Heart of Witch": [
-   1704, 
+   1720, 
    275352
   ], 
   "Here in the Moment": [
-   1147, 
+   1151, 
    266462
   ], 
   "HEXAD": [
@@ -953,11 +953,11 @@
    0
   ], 
   "In My Heart": [
-   1785, 
+   1801, 
    249462
   ], 
   "In the Tdot": [
-   1047, 
+   1051, 
    293135
   ], 
   "I want You": [
@@ -1013,7 +1013,7 @@
    0
   ], 
   "Love mode": [
-   1780, 
+   1788, 
    256365
   ], 
   "Lover": [
@@ -1021,7 +1021,7 @@
    0
   ], 
   "Lupin": [
-   2323, 
+   2333, 
    289922
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -1029,7 +1029,7 @@
    0
   ], 
   "Luv is True": [
-   680, 
+   682, 
    279666
   ], 
   "MASAI(Electro House Mix)": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   2211, 
+   2220, 
    284864
   ], 
   "MonoXide": [
@@ -1057,11 +1057,11 @@
    0
   ], 
   "My Heart, My Soul": [
-   1273, 
+   1284, 
    270871
   ], 
   "Nova(Mr.Funky Remix)": [
-   1098, 
+   1107, 
    266417
   ], 
   "Now a New Day": [
@@ -1073,7 +1073,7 @@
    0
   ], 
   "Ooh La La": [
-   1035, 
+   1043, 
    281754
   ], 
   "OUT LAW - Reborn": [
@@ -1101,7 +1101,7 @@
    0
   ], 
   "Pretty Girl": [
-   2043, 
+   2049, 
    275176
   ], 
   "Proposed, Flower, Wolf Part 1": [
@@ -1109,11 +1109,11 @@
    299975
   ], 
   "Proposed, Flower, Wolf Part 2": [
-   861, 
+   866, 
    275273
   ], 
   "Put Em Up": [
-   901, 
+   909, 
    274063
   ], 
   "Puzzler": [
@@ -1157,11 +1157,11 @@
    0
   ], 
   "Season (Warm Mix)": [
-   1080, 
+   1089, 
    267808
   ], 
   "Secret World": [
-   1885, 
+   1894, 
    270669
   ], 
   "Shoreline": [
@@ -1193,7 +1193,7 @@
    0
   ], 
   "Step": [
-   2318, 
+   2332, 
    288627
   ], 
   "STOP": [
@@ -1245,19 +1245,19 @@
    0
   ], 
   "To You": [
-   1858, 
+   1872, 
    238777
   ], 
   "Trip": [
-   1172, 
+   1182, 
    280075
   ], 
   "Victim of Love": [
-   978, 
-   273715
+   966, 
+   277505
   ], 
   "Voyage": [
-   831, 
+   840, 
    248480
   ], 
   "Wanna Be Your Lover": [
@@ -1303,7 +1303,7 @@
  }, 
  "hd": {
   "ACCESS": [
-   1086, 
+   1092, 
    291909
   ], 
   "AD2222": [
@@ -1447,7 +1447,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   856, 
+   862, 
    280743
   ], 
   "DJMAX": [
@@ -1495,7 +1495,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   1777, 
+   1789, 
    246334
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -1523,7 +1523,7 @@
    0
   ], 
   "First Kiss": [
-   1129, 
+   1139, 
    279086
   ], 
   "Flea": [
@@ -1707,7 +1707,7 @@
    0
   ], 
   "OBLIVION": [
-   3161, 
+   3179, 
    262872
   ], 
   "Ooh La La": [
@@ -1743,7 +1743,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1761, 
+   1778, 
    285654
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1859,7 +1859,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   1474, 
+   1478, 
    273202
   ], 
   "The Guilty": [
@@ -2105,7 +2105,7 @@
    0
   ], 
   "First Kiss": [
-   2269, 
+   2283, 
    282994
   ], 
   "Flea": [
@@ -2145,7 +2145,7 @@
    0
   ], 
   "Heart of Witch": [
-   1627, 
+   1638, 
    268115
   ], 
   "HEXAD": [
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   2043, 
+   2045, 
    2593793
   ], 
   "Raconteur": [
