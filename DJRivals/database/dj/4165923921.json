@@ -3,7 +3,7 @@
  "icon": "2751607350.png", 
  "star": {
   "ACCESS": [
-   103, 
+   104, 
    291505
   ], 
   "AD2222": [
@@ -27,7 +27,7 @@
    0
   ], 
   "Area 7": [
-   697, 
+   700, 
    243597
   ], 
   "Ask to Wind": [
@@ -119,7 +119,7 @@
    0
   ], 
   "Creator": [
-   430, 
+   433, 
    236493
   ], 
   "Cypher Gate": [
@@ -131,7 +131,7 @@
    0
   ], 
   "DARK ENVY": [
-   22, 
+   23, 
    272566
   ], 
   "Dark Prism": [
@@ -171,7 +171,7 @@
    0
   ], 
   "Dual Strikers": [
-   105, 
+   108, 
    278003
   ], 
   "EGG": [
@@ -191,7 +191,7 @@
    0
   ], 
   "Enemy Storm": [
-   108, 
+   109, 
    285159
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -199,7 +199,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   584, 
+   593, 
    221330
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -215,7 +215,7 @@
    0
   ], 
   "Fate": [
-   154, 
+   156, 
    273623
   ], 
   "Feel ma Beat": [
@@ -271,7 +271,7 @@
    0
   ], 
   "Hanzup!": [
-   298, 
+   302, 
    250915
   ], 
   "Heart Beat Part. 2": [
@@ -299,7 +299,7 @@
    0
   ], 
   "In my Dream": [
-   360, 
+   365, 
    233491
   ], 
   "In My Heart": [
@@ -319,7 +319,7 @@
    0
   ], 
   "Jumping": [
-   289, 
+   291, 
    280312
   ], 
   "Jupiter Driving": [
@@ -407,7 +407,7 @@
    0
   ], 
   "My Heart, My Soul": [
-   253, 
+   255, 
    278507
   ], 
   "Nova(Mr.Funky Remix)": [
@@ -419,7 +419,7 @@
    0
   ], 
   "OBLIVION": [
-   992, 
+   997, 
    262946
   ], 
   "Ooh La La": [
@@ -451,7 +451,7 @@
    0
   ], 
   "Pretty Girl": [
-   297, 
+   298, 
    274280
   ], 
   "Proposed, Flower, Wolf Part 1": [
@@ -459,7 +459,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 2": [
-   95, 
+   97, 
    201653
   ], 
   "Put Em Up": [
@@ -491,7 +491,7 @@
    0
   ], 
   "Right Back": [
-   483, 
+   490, 
    229312
   ], 
   "RockSTAR": [
@@ -503,7 +503,7 @@
    0
   ], 
   "Say It From Your Heart": [
-   155, 
+   158, 
    273387
   ], 
   "Season (Warm Mix)": [
@@ -531,7 +531,7 @@
    0
   ], 
   "Someday": [
-   163, 
+   164, 
    287117
   ], 
   "SON OF SUN": [
@@ -547,7 +547,7 @@
    0
   ], 
   "STOP": [
-   203, 
+   208, 
    232533
   ], 
   "SuperNova": [
@@ -559,7 +559,7 @@
    292983
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   49, 
+   50, 
    289060
   ], 
   "Sweet Dream": [
@@ -571,7 +571,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   611, 
+   616, 
    245733
   ], 
   "The Guilty": [
@@ -619,7 +619,7 @@
    0
   ], 
   "White Blue": [
-   471, 
+   476, 
    263283
   ], 
   "Xeus": [
@@ -639,15 +639,15 @@
    0
   ], 
   "Your Own Miracle": [
-   120, 
+   121, 
    273144
   ], 
   "You should get over me": [
-   540, 
+   547, 
    266464
   ], 
   "Zet(Mr.Funky Remix)": [
-   27, 
+   28, 
    288674
   ]
  }, 
@@ -701,7 +701,7 @@
    0
   ], 
   "Become Myself": [
-   924, 
+   926, 
    266127
   ], 
   "BEE-U-TIFUL": [
@@ -745,7 +745,7 @@
    0
   ], 
   "Coastal Tempo": [
-   368, 
+   369, 
    271016
   ], 
   "Color": [
@@ -797,7 +797,7 @@
    0
   ], 
   "Desperado(Nu skool Mix)": [
-   388, 
+   389, 
    281751
   ], 
   "DIVINE SERVICE": [
@@ -837,7 +837,7 @@
    0
   ], 
   "End of the Moonlight": [
-   1066, 
+   1070, 
    277434
   ], 
   "Enemy Storm": [
@@ -921,11 +921,11 @@
    0
   ], 
   "Hanzup!": [
-   1274, 
+   1276, 
    259965
   ], 
   "Heart Beat Part. 2": [
-   1388, 
+   1395, 
    264851
   ], 
   "Heart of Witch": [
@@ -969,7 +969,7 @@
    0
   ], 
   "Jumping": [
-   798, 
+   800, 
    288672
   ], 
   "Jupiter Driving": [
@@ -1057,11 +1057,11 @@
    0
   ], 
   "My Heart, My Soul": [
-   1417, 
+   1421, 
    265673
   ], 
   "Nova(Mr.Funky Remix)": [
-   695, 
+   697, 
    278965
   ], 
   "Now a New Day": [
@@ -1077,7 +1077,7 @@
    0
   ], 
   "OUT LAW - Reborn": [
-   669, 
+   671, 
    277116
   ], 
   "Out of CTRL": [
@@ -1193,7 +1193,7 @@
    0
   ], 
   "Step": [
-   2258, 
+   2262, 
    289178
   ], 
   "STOP": [
@@ -1209,23 +1209,23 @@
    0
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   739, 
+   740, 
    270389
   ], 
   "Sweet Dream": [
-   1929, 
+   1937, 
    253194
   ], 
   "Sweet Shining Shooting Star": [
-   886, 
+   888, 
    263094
   ], 
   "The Clear Blue Sky": [
-   1781, 
+   1789, 
    264909
   ], 
   "The Guilty": [
-   843, 
+   847, 
    269665
   ], 
   "The Last Dance": [
@@ -1237,7 +1237,7 @@
    0
   ], 
   "The Rain Maker": [
-   2401, 
+   2404, 
    257197
   ], 
   "Thor": [
@@ -1499,7 +1499,7 @@
    0
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
-   1597, 
+   1601, 
    270012
   ], 
   "Everything": [
@@ -1607,7 +1607,7 @@
    0
   ], 
   "Jumping": [
-   1326, 
+   1328, 
    266748
   ], 
   "Jupiter Driving": [
@@ -1819,7 +1819,7 @@
    0
   ], 
   "Someday": [
-   2065, 
+   2074, 
    267901
   ], 
   "SON OF SUN": [
@@ -1831,7 +1831,7 @@
    0
   ], 
   "Step": [
-   1637, 
+   1639, 
    274614
   ], 
   "STOP": [
@@ -2081,7 +2081,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   2030, 
+   2039, 
    273135
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   1812, 
+   1816, 
    2651398
   ], 
   "Raconteur": [
