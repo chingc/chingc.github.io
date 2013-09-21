@@ -1,9 +1,9 @@
 {
  "name": "Funtoms", 
- "icon": "3195095220.png", 
+ "icon": "3848067818.png", 
  "star": {
   "ACCESS": [
-   106, 
+   108, 
    291490
   ], 
   "AD2222": [
@@ -27,7 +27,7 @@
    0
   ], 
   "Area 7": [
-   84, 
+   86, 
    286207
   ], 
   "Ask to Wind": [
@@ -67,7 +67,7 @@
    0
   ], 
   "Blythe": [
-   201, 
+   204, 
    237935
   ], 
   "Brand NEW Days": [
@@ -143,7 +143,7 @@
    0
   ], 
   "Desperado": [
-   210, 
+   217, 
    255447
   ], 
   "Desperado(Nu skool Mix)": [
@@ -151,7 +151,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   127, 
+   128, 
    274840
   ], 
   "DJMAX": [
@@ -187,8 +187,8 @@
    0
   ], 
   "End of the Moonlight": [
-   9999, 
-   0
+   226, 
+   262333
   ], 
   "Enemy Storm": [
    9999, 
@@ -331,7 +331,7 @@
    0
   ], 
   "Keys to the World": [
-   100, 
+   102, 
    254102
   ], 
   "Kung-Fu Rider": [
@@ -435,7 +435,7 @@
    0
   ], 
   "Over the Rainbow": [
-   199, 
+   201, 
    261810
   ], 
   "PDM": [
@@ -503,7 +503,7 @@
    0
   ], 
   "Say It From Your Heart": [
-   24, 
+   25, 
    296375
   ], 
   "Season (Warm Mix)": [
@@ -527,7 +527,7 @@
    0
   ], 
   "SIN": [
-   213, 
+   219, 
    241961
   ], 
   "Someday": [
@@ -563,7 +563,7 @@
    0
   ], 
   "Sweet Dream": [
-   77, 
+   78, 
    282775
   ], 
   "Sweet Shining Shooting Star": [
@@ -571,7 +571,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   450, 
+   451, 
    257147
   ], 
   "The Guilty": [
@@ -587,7 +587,7 @@
    0
   ], 
   "The Rain Maker": [
-   119, 
+   120, 
    281406
   ], 
   "Thor": [
@@ -643,8 +643,8 @@
    0
   ], 
   "You should get over me": [
-   9999, 
-   0
+   488, 
+   271007
   ], 
   "Zet(Mr.Funky Remix)": [
    9999, 
@@ -653,7 +653,7 @@
  }, 
  "nm": {
   "ACCESS": [
-   889, 
+   900, 
    288092
   ], 
   "AD2222": [
@@ -725,8 +725,8 @@
    0
   ], 
   "Break!": [
-   9999, 
-   0
+   2801, 
+   244143
   ], 
   "Burn It Down": [
    9999, 
@@ -761,7 +761,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   1146, 
+   1155, 
    279761
   ], 
   "Cozy Quilt": [
@@ -801,8 +801,8 @@
    0
   ], 
   "DIVINE SERVICE": [
-   9999, 
-   0
+   1885, 
+   260186
   ], 
   "DJMAX": [
    9999, 
@@ -849,7 +849,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   1570, 
+   1581, 
    258746
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -933,8 +933,8 @@
    0
   ], 
   "Here in the Moment": [
-   9999, 
-   0
+   1291, 
+   263357
   ], 
   "HEXAD": [
    9999, 
@@ -961,7 +961,7 @@
    0
   ], 
   "I want You": [
-   1929, 
+   1944, 
    274759
   ], 
   "Jealousy": [
@@ -969,7 +969,7 @@
    0
   ], 
   "Jumping": [
-   2122, 
+   2141, 
    268347
   ], 
   "Jupiter Driving": [
@@ -1005,7 +1005,7 @@
    0
   ], 
   "Love is Beautiful": [
-   783, 
+   790, 
    256861
   ], 
   "Lovely Hands": [
@@ -1041,7 +1041,7 @@
    0
   ], 
   "Melody": [
-   1555, 
+   1569, 
    232229
   ], 
   "Miles": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   2279, 
+   2302, 
    284096
   ], 
   "MonoXide": [
@@ -1061,16 +1061,16 @@
    0
   ], 
   "Nova(Mr.Funky Remix)": [
-   9999, 
-   0
+   1293, 
+   261654
   ], 
   "Now a New Day": [
    9999, 
    0
   ], 
   "OBLIVION": [
-   2132, 
-   279497
+   1537, 
+   285983
   ], 
   "Ooh La La": [
    9999, 
@@ -1153,12 +1153,12 @@
    0
   ], 
   "Say It From Your Heart": [
-   426, 
+   431, 
    291193
   ], 
   "Season (Warm Mix)": [
-   9999, 
-   0
+   962, 
+   276254
   ], 
   "Secret World": [
    9999, 
@@ -1213,8 +1213,8 @@
    0
   ], 
   "Sweet Dream": [
-   9999, 
-   0
+   1670, 
+   262880
   ], 
   "Sweet Shining Shooting Star": [
    9999, 
@@ -1249,8 +1249,8 @@
    0
   ], 
   "Trip": [
-   9999, 
-   0
+   1578, 
+   272303
   ], 
   "Victim of Love": [
    9999, 
@@ -1269,8 +1269,8 @@
    0
   ], 
   "White Blue": [
-   9999, 
-   0
+   1521, 
+   268246
   ], 
   "Xeus": [
    9999, 

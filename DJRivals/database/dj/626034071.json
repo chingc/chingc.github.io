@@ -103,7 +103,7 @@
    0
   ], 
   "Colours of Sorrow": [
-   111, 
+   112, 
    266326
   ], 
   "Come to Me": [
@@ -499,7 +499,7 @@
    0
   ], 
   "Rutin": [
-   21, 
+   22, 
    291745
   ], 
   "Say It From Your Heart": [
@@ -643,7 +643,7 @@
    0
   ], 
   "You should get over me": [
-   676, 
+   687, 
    257661
   ], 
   "Zet(Mr.Funky Remix)": [
@@ -661,7 +661,7 @@
    0
   ], 
   "A.I": [
-   828, 
+   835, 
    257176
   ], 
   "Airwave": [
@@ -737,15 +737,15 @@
    0
   ], 
   "Cherokee": [
-   934, 
+   947, 
    282460
   ], 
   "CLOSER": [
-   551, 
+   556, 
    261326
   ], 
   "Coastal Tempo": [
-   948, 
+   956, 
    244380
   ], 
   "Color": [
@@ -789,7 +789,7 @@
    0
   ], 
   "Dear my lady": [
-   1325, 
+   1333, 
    254321
   ], 
   "Desperado": [
@@ -801,7 +801,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   1098, 
+   1112, 
    275867
   ], 
   "DJMAX": [
@@ -837,7 +837,7 @@
    0
   ], 
   "End of the Moonlight": [
-   2178, 
+   2194, 
    246624
   ], 
   "Enemy Storm": [
@@ -865,7 +865,7 @@
    0
   ], 
   "Fate": [
-   1574, 
+   1594, 
    263252
   ], 
   "Feel ma Beat": [
@@ -929,7 +929,7 @@
    0
   ], 
   "Heart of Witch": [
-   1605, 
+   1622, 
    277025
   ], 
   "Here in the Moment": [
@@ -973,7 +973,7 @@
    0
   ], 
   "Jupiter Driving": [
-   573, 
+   583, 
    274615
   ], 
   "Just for Today": [
@@ -1013,7 +1013,7 @@
    0
   ], 
   "Love mode": [
-   1170, 
+   1176, 
    272982
   ], 
   "Lover": [
@@ -1021,7 +1021,7 @@
    0
   ], 
   "Lupin": [
-   4048, 
+   4079, 
    269256
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -1069,7 +1069,7 @@
    0
   ], 
   "OBLIVION": [
-   965, 
+   977, 
    291143
   ], 
   "Ooh La La": [
@@ -1105,15 +1105,15 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   839, 
+   846, 
    297431
   ], 
   "Proposed, Flower, Wolf Part 2": [
-   1187, 
+   1192, 
    257354
   ], 
   "Put Em Up": [
-   1140, 
+   1160, 
    264323
   ], 
   "Puzzler": [
@@ -1137,7 +1137,7 @@
    0
   ], 
   "Remember": [
-   473, 
+   479, 
    278432
   ], 
   "Right Back": [
@@ -1149,7 +1149,7 @@
    0
   ], 
   "Rutin": [
-   478, 
+   484, 
    277781
   ], 
   "Say It From Your Heart": [
@@ -1161,7 +1161,7 @@
    0
   ], 
   "Secret World": [
-   570, 
+   574, 
    291686
   ], 
   "Shoreline": [
@@ -1213,11 +1213,11 @@
    0
   ], 
   "Sweet Dream": [
-   731, 
+   735, 
    281891
   ], 
   "Sweet Shining Shooting Star": [
-   1171, 
+   1188, 
    249104
   ], 
   "The Clear Blue Sky": [
@@ -1225,12 +1225,12 @@
    0
   ], 
   "The Guilty": [
-   1745, 
+   1760, 
    231707
   ], 
   "The Last Dance": [
-   9999, 
-   0
+   1020, 
+   248363
   ], 
   "The Night Stage": [
    9999, 
@@ -1249,7 +1249,7 @@
    0
   ], 
   "Trip": [
-   1084, 
+   1096, 
    281873
   ], 
   "Victim of Love": [
@@ -1257,7 +1257,7 @@
    0
   ], 
   "Voyage": [
-   549, 
+   557, 
    267479
   ], 
   "Wanna Be Your Lover": [
@@ -1303,7 +1303,7 @@
  }, 
  "hd": {
   "ACCESS": [
-   1004, 
+   1015, 
    293166
   ], 
   "AD2222": [
@@ -1331,7 +1331,7 @@
    0
   ], 
   "Ask to Wind": [
-   1688, 
+   1699, 
    273183
   ], 
   "Ask to Wind -Live version-": [
@@ -1447,7 +1447,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   777, 
+   781, 
    282611
   ], 
   "DJMAX": [
@@ -1495,7 +1495,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   752, 
+   764, 
    287608
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -1707,8 +1707,8 @@
    0
   ], 
   "OBLIVION": [
-   3425, 
-   257513
+   3353, 
+   260121
   ], 
   "Ooh La La": [
    9999, 
@@ -1743,7 +1743,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   325, 
+   327, 
    299945
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1799,7 +1799,7 @@
    0
   ], 
   "Secret World": [
-   2257, 
+   2282, 
    263491
   ], 
   "Shoreline": [
@@ -1887,7 +1887,7 @@
    0
   ], 
   "Trip": [
-   2324, 
+   2352, 
    258112
   ], 
   "Victim of Love": [
@@ -1895,7 +1895,7 @@
    0
   ], 
   "Voyage": [
-   683, 
+   687, 
    269519
   ], 
   "Wanna Be Your Lover": [

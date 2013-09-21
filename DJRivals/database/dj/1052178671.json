@@ -247,7 +247,7 @@
    0
   ], 
   "Fury": [
-   22, 
+   23, 
    287511
   ], 
   "Get Down": [
@@ -319,7 +319,7 @@
    0
   ], 
   "Jumping": [
-   1538, 
+   1557, 
    205656
   ], 
   "Jupiter Driving": [
@@ -543,7 +543,7 @@
    0
   ], 
   "Step": [
-   1661, 
+   1688, 
    239819
   ], 
   "STOP": [
@@ -643,7 +643,7 @@
    0
   ], 
   "You should get over me": [
-   196, 
+   203, 
    287585
   ], 
   "Zet(Mr.Funky Remix)": [
@@ -685,7 +685,7 @@
    0
   ], 
   "Ask to Wind -Live version-": [
-   776, 
+   783, 
    251738
   ], 
   "Bamboo on Bamboo": [
@@ -705,7 +705,7 @@
    0
   ], 
   "BEE-U-TIFUL": [
-   631, 
+   641, 
    286802
   ], 
   "Beyond The Future": [
@@ -741,7 +741,7 @@
    0
   ], 
   "CLOSER": [
-   424, 
+   426, 
    269886
   ], 
   "Coastal Tempo": [
@@ -769,7 +769,7 @@
    0
   ], 
   "Creator": [
-   723, 
+   732, 
    271865
   ], 
   "Cypher Gate": [
@@ -781,15 +781,15 @@
    0
   ], 
   "DARK ENVY": [
-   704, 
+   719, 
    269998
   ], 
   "Dark Prism": [
-   1528, 
+   1545, 
    272173
   ], 
   "Dear my lady": [
-   219, 
+   220, 
    291482
   ], 
   "Desperado": [
@@ -849,7 +849,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   2064, 
+   2081, 
    234570
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -897,7 +897,7 @@
    0
   ], 
   "Fury": [
-   1118, 
+   1124, 
    253212
   ], 
   "Get Down": [
@@ -1037,7 +1037,7 @@
    0
   ], 
   "Mellow D Fantasy": [
-   423, 
+   425, 
    295152
   ], 
   "Melody": [
@@ -1065,7 +1065,7 @@
    0
   ], 
   "Now a New Day": [
-   901, 
+   907, 
    278827
   ], 
   "OBLIVION": [
@@ -1085,7 +1085,7 @@
    0
   ], 
   "Over the Rainbow": [
-   1848, 
+   1862, 
    264523
   ], 
   "PDM": [
@@ -1093,7 +1093,7 @@
    0
   ], 
   "Piano Concerto No.1": [
-   1074, 
+   1093, 
    280052
   ], 
   "Play The Future": [
@@ -1161,11 +1161,11 @@
    0
   ], 
   "Secret World": [
-   317, 
+   319, 
    296405
   ], 
   "Shoreline": [
-   474, 
+   475, 
    268127
   ], 
   "ShowDown": [
@@ -1173,11 +1173,11 @@
    0
   ], 
   "SigNalize": [
-   2185, 
+   2204, 
    275284
   ], 
   "SIN": [
-   1383, 
+   1404, 
    260488
   ], 
   "Someday": [
@@ -1193,7 +1193,7 @@
    0
   ], 
   "Step": [
-   1328, 
+   1338, 
    294928
   ], 
   "STOP": [
@@ -1221,7 +1221,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   499, 
+   502, 
    286887
   ], 
   "The Guilty": [
@@ -1237,7 +1237,7 @@
    0
   ], 
   "The Rain Maker": [
-   1180, 
+   1188, 
    282801
   ], 
   "Thor": [
@@ -1277,7 +1277,7 @@
    0
   ], 
   "XLASHER": [
-   374, 
+   377, 
    280430
   ], 
   "Y": [
@@ -1327,11 +1327,11 @@
    0
   ], 
   "Area 7": [
-   1022, 
+   1029, 
    271259
   ], 
   "Ask to Wind": [
-   488, 
+   493, 
    295018
   ], 
   "Ask to Wind -Live version-": [
@@ -1371,7 +1371,7 @@
    0
   ], 
   "Brand NEW Days": [
-   1421, 
+   1430, 
    268906
   ], 
   "Break!": [
@@ -1379,23 +1379,23 @@
    0
   ], 
   "Burn It Down": [
-   9999, 
-   0
+   832, 
+   269856
   ], 
   "Chemical Slave": [
    9999, 
    0
   ], 
   "Cherokee": [
-   423, 
+   426, 
    290549
   ], 
   "CLOSER": [
-   219, 
+   221, 
    290910
   ], 
   "Coastal Tempo": [
-   336, 
+   339, 
    271277
   ], 
   "Color": [
@@ -1403,15 +1403,15 @@
    0
   ], 
   "Colours of Sorrow": [
-   1023, 
+   1030, 
    275576
   ], 
   "Come to Me": [
-   390, 
+   392, 
    287120
   ], 
   "Cosmic Fantastic Lovesong": [
-   1273, 
+   1289, 
    284066
   ], 
   "Cozy Quilt": [
@@ -1419,7 +1419,7 @@
    0
   ], 
   "Creator": [
-   534, 
+   537, 
    279139
   ], 
   "Cypher Gate": [
@@ -1471,7 +1471,7 @@
    0
   ], 
   "EGG": [
-   450, 
+   453, 
    288535
   ], 
   "Electronics": [
@@ -1483,7 +1483,7 @@
    0
   ], 
   "End of the Moonlight": [
-   1646, 
+   1661, 
    256512
   ], 
   "Enemy Storm": [
@@ -1499,8 +1499,8 @@
    0
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
-   9999, 
-   0
+   1254, 
+   278556
   ], 
   "Everything": [
    9999, 
@@ -1575,7 +1575,7 @@
    0
   ], 
   "Here in the Moment": [
-   408, 
+   414, 
    286177
   ], 
   "HEXAD": [
@@ -1631,7 +1631,7 @@
    0
   ], 
   "Ladymade Star": [
-   840, 
+   849, 
    281536
   ], 
   "Landscape": [
@@ -1643,7 +1643,7 @@
    0
   ], 
   "Love is Beautiful": [
-   810, 
+   821, 
    266033
   ], 
   "Lovely Hands": [
@@ -1651,7 +1651,7 @@
    0
   ], 
   "Love mode": [
-   1021, 
+   1027, 
    280305
   ], 
   "Lover": [
@@ -1675,7 +1675,7 @@
    0
   ], 
   "Mellow D Fantasy": [
-   950, 
+   953, 
    285883
   ], 
   "Melody": [
@@ -1699,7 +1699,7 @@
    0
   ], 
   "Nova(Mr.Funky Remix)": [
-   776, 
+   778, 
    280211
   ], 
   "Now a New Day": [
@@ -1735,7 +1735,7 @@
    0
   ], 
   "Play The Future": [
-   426, 
+   433, 
    284806
   ], 
   "Pretty Girl": [
@@ -1743,7 +1743,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1759, 
+   1779, 
    286230
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1751,7 +1751,7 @@
    0
   ], 
   "Put Em Up": [
-   1137, 
+   1154, 
    269592
   ], 
   "Puzzler": [
@@ -1771,7 +1771,7 @@
    0
   ], 
   "Ready Now": [
-   747, 
+   748, 
    270560
   ], 
   "Remember": [
@@ -1787,11 +1787,11 @@
    0
   ], 
   "Rutin": [
-   562, 
+   566, 
    282590
   ], 
   "Say It From Your Heart": [
-   1105, 
+   1112, 
    258359
   ], 
   "Season (Warm Mix)": [
@@ -1799,7 +1799,7 @@
    0
   ], 
   "Secret World": [
-   790, 
+   799, 
    289947
   ], 
   "Shoreline": [
@@ -1831,7 +1831,7 @@
    0
   ], 
   "Step": [
-   927, 
+   933, 
    292188
   ], 
   "STOP": [
@@ -1843,15 +1843,15 @@
    0
   ], 
   "SuperSonic": [
-   347, 
+   348, 
    285615
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   954, 
+   963, 
    266540
   ], 
   "Sweet Dream": [
-   1314, 
+   1322, 
    277634
   ], 
   "Sweet Shining Shooting Star": [
@@ -1859,11 +1859,11 @@
    0
   ], 
   "The Clear Blue Sky": [
-   1866, 
+   1886, 
    263146
   ], 
   "The Guilty": [
-   656, 
+   661, 
    271488
   ], 
   "The Last Dance": [
@@ -1883,11 +1883,11 @@
    0
   ], 
   "To You": [
-   269, 
+   273, 
    296640
   ], 
   "Trip": [
-   1372, 
+   1388, 
    286874
   ], 
   "Victim of Love": [
@@ -1895,7 +1895,7 @@
    0
   ], 
   "Voyage": [
-   801, 
+   806, 
    259975
   ], 
   "Wanna Be Your Lover": [
@@ -1919,15 +1919,15 @@
    0
   ], 
   "Y": [
-   813, 
-   275294
+   759, 
+   277063
   ], 
   "You & Me": [
    9999, 
    0
   ], 
   "Your Own Miracle": [
-   247, 
+   248, 
    282914
   ], 
   "You should get over me": [
@@ -2005,7 +2005,7 @@
    0
   ], 
   "Coastal Tempo": [
-   1220, 
+   1229, 
    251717
   ], 
   "Color": [
@@ -2021,7 +2021,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   1862, 
+   1878, 
    284384
   ], 
   "Cypher Gate": [
@@ -2037,7 +2037,7 @@
    0
   ], 
   "Dear my lady": [
-   1402, 
+   1418, 
    263860
   ], 
   "Desperado(Nu skool Mix)": [
@@ -2045,7 +2045,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   935, 
+   942, 
    286064
   ], 
   "Dream Again": [
@@ -2097,7 +2097,7 @@
    0
   ], 
   "Fate": [
-   632, 
+   635, 
    289146
   ], 
   "Feel ma Beat": [
@@ -2105,7 +2105,7 @@
    0
   ], 
   "First Kiss": [
-   815, 
+   823, 
    295779
   ], 
   "Flea": [
@@ -2193,7 +2193,7 @@
    0
   ], 
   "Ladymade Star": [
-   1008, 
+   1018, 
    272343
   ], 
   "Landscape": [
@@ -2205,7 +2205,7 @@
    0
   ], 
   "Love is Beautiful": [
-   935, 
+   940, 
    271245
   ], 
   "Love mode": [
@@ -2572,7 +2572,7 @@
    0
   ], 
   "Step Original Version": [
-   1080, 
+   1086, 
    1119058
   ], 
   "SuperSonic (Mr.Funky Extended Mix)": [
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   1607, 
+   1611, 
    3477445
   ], 
   "Raconteur": [
