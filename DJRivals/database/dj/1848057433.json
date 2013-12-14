@@ -75,7 +75,7 @@
    0
   ], 
   "Break!": [
-   233, 
+   248, 
    269548
   ], 
   "Burn It Down": [
@@ -407,7 +407,7 @@
    0
   ], 
   "My Heart, My Soul": [
-   359, 
+   384, 
    273344
   ], 
   "Nova(Mr.Funky Remix)": [
@@ -511,7 +511,7 @@
    0
   ], 
   "Secret World": [
-   48, 
+   52, 
    296026
   ], 
   "Shoreline": [
@@ -563,15 +563,15 @@
    0
   ], 
   "Sweet Dream": [
-   216, 
+   231, 
    268380
   ], 
   "Sweet Shining Shooting Star": [
-   174, 
+   186, 
    244101
   ], 
   "The Clear Blue Sky": [
-   454, 
+   475, 
    256882
   ], 
   "The Guilty": [
@@ -607,7 +607,7 @@
    0
   ], 
   "Voyage": [
-   66, 
+   74, 
    270726
   ], 
   "Wanna Be Your Lover": [
@@ -741,7 +741,7 @@
    0
   ], 
   "CLOSER": [
-   694, 
+   707, 
    252512
   ], 
   "Coastal Tempo": [
@@ -761,11 +761,11 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   1202, 
+   1236, 
    278434
   ], 
   "Cozy Quilt": [
-   1522, 
+   1559, 
    242343
   ], 
   "Creator": [
@@ -801,7 +801,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   1761, 
+   1797, 
    262554
   ], 
   "DJMAX": [
@@ -809,7 +809,7 @@
    0
   ], 
   "Dream Again": [
-   1882, 
+   1926, 
    253505
   ], 
   "Dream of Winds": [
@@ -849,7 +849,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   623, 
+   652, 
    290676
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -933,7 +933,7 @@
    0
   ], 
   "Here in the Moment": [
-   1188, 
+   1236, 
    265936
   ], 
   "HEXAD": [
@@ -1005,8 +1005,8 @@
    0
   ], 
   "Love is Beautiful": [
-   655, 
-   262716
+   619, 
+   265074
   ], 
   "Lovely Hands": [
    9999, 
@@ -1041,23 +1041,23 @@
    0
   ], 
   "Melody": [
-   549, 
-   276146
+   478, 
+   279513
   ], 
   "Miles": [
-   320, 
+   337, 
    273962
   ], 
   "Mister": [
-   9999, 
-   0
+   1915, 
+   288854
   ], 
   "MonoXide": [
    9999, 
    0
   ], 
   "My Heart, My Soul": [
-   742, 
+   757, 
    288034
   ], 
   "Nova(Mr.Funky Remix)": [
@@ -1069,7 +1069,7 @@
    0
   ], 
   "OBLIVION": [
-   393, 
+   403, 
    297448
   ], 
   "Ooh La La": [
@@ -1137,7 +1137,7 @@
    0
   ], 
   "Remember": [
-   1135, 
+   1163, 
    248423
   ], 
   "Right Back": [
@@ -1153,7 +1153,7 @@
    0
   ], 
   "Say It From Your Heart": [
-   973, 
+   995, 
    274430
   ], 
   "Season (Warm Mix)": [
@@ -1161,7 +1161,7 @@
    0
   ], 
   "Secret World": [
-   2141, 
+   2211, 
    264876
   ], 
   "Shoreline": [
@@ -1213,7 +1213,7 @@
    0
   ], 
   "Sweet Dream": [
-   1895, 
+   1959, 
    256387
   ], 
   "Sweet Shining Shooting Star": [
@@ -1245,7 +1245,7 @@
    0
   ], 
   "To You": [
-   529, 
+   547, 
    293287
   ], 
   "Trip": [
@@ -1643,8 +1643,8 @@
    0
   ], 
   "Love is Beautiful": [
-   812, 
-   266460
+   651, 
+   274269
   ], 
   "Lovely Hands": [
    9999, 
@@ -1683,8 +1683,8 @@
    0
   ], 
   "Miles": [
-   9999, 
-   0
+   1004, 
+   252023
   ], 
   "Mister": [
    9999, 
@@ -1707,8 +1707,8 @@
    0
   ], 
   "OBLIVION": [
-   2804, 
-   269782
+   1056, 
+   287265
   ], 
   "Ooh La La": [
    9999, 
@@ -2081,8 +2081,8 @@
    0
   ], 
   "Eternal Fantasy": [
-   9999, 
-   0
+   2089, 
+   274134
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
    9999, 
@@ -2205,8 +2205,8 @@
    0
   ], 
   "Love is Beautiful": [
-   1153, 
-   256000
+   916, 
+   273877
   ], 
   "Love mode": [
    9999, 
@@ -2452,7 +2452,7 @@
    0
   ], 
   "BOY MEETS GIRL set": [
-   2213, 
+   2245, 
    256827
   ], 
   "BRUTALIZER set": [

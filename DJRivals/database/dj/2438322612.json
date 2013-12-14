@@ -75,7 +75,7 @@
    0
   ], 
   "Break!": [
-   37, 
+   41, 
    291651
   ], 
   "Burn It Down": [
@@ -103,7 +103,7 @@
    0
   ], 
   "Colours of Sorrow": [
-   416, 
+   445, 
    228645
   ], 
   "Come to Me": [
@@ -119,7 +119,7 @@
    0
   ], 
   "Creator": [
-   226, 
+   236, 
    260044
   ], 
   "Cypher Gate": [
@@ -139,7 +139,7 @@
    0
   ], 
   "Dear my lady": [
-   80, 
+   81, 
    287462
   ], 
   "Desperado": [
@@ -187,7 +187,7 @@
    0
   ], 
   "End of the Moonlight": [
-   51, 
+   52, 
    289555
   ], 
   "Enemy Storm": [
@@ -199,7 +199,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   30, 
+   32, 
    297729
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -275,11 +275,11 @@
    0
   ], 
   "Heart Beat Part. 2": [
-   259, 
+   279, 
    276110
   ], 
   "Heart of Witch": [
-   49, 
+   51, 
    293339
   ], 
   "Here in the Moment": [
@@ -303,7 +303,7 @@
    0
   ], 
   "In My Heart": [
-   132, 
+   138, 
    285376
   ], 
   "In the Tdot": [
@@ -311,7 +311,7 @@
    0
   ], 
   "I want You": [
-   309, 
+   321, 
    276798
   ], 
   "Jealousy": [
@@ -319,7 +319,7 @@
    0
   ], 
   "Jumping": [
-   625, 
+   656, 
    263775
   ], 
   "Jupiter Driving": [
@@ -331,7 +331,7 @@
    0
   ], 
   "Keys to the World": [
-   104, 
+   111, 
    253896
   ], 
   "Kung-Fu Rider": [
@@ -391,7 +391,7 @@
    0
   ], 
   "Melody": [
-   204, 
+   215, 
    244365
   ], 
   "Miles": [
@@ -399,7 +399,7 @@
    0
   ], 
   "Mister": [
-   485, 
+   510, 
    272688
   ], 
   "MonoXide": [
@@ -407,7 +407,7 @@
    0
   ], 
   "My Heart, My Soul": [
-   128, 
+   138, 
    286191
   ], 
   "Nova(Mr.Funky Remix)": [
@@ -415,8 +415,8 @@
    0
   ], 
   "Now a New Day": [
-   9999, 
-   0
+   70, 
+   286873
   ], 
   "OBLIVION": [
    9999, 
@@ -435,7 +435,7 @@
    0
   ], 
   "Over the Rainbow": [
-   183, 
+   190, 
    263703
   ], 
   "PDM": [
@@ -451,7 +451,7 @@
    0
   ], 
   "Pretty Girl": [
-   52, 
+   58, 
    295068
   ], 
   "Proposed, Flower, Wolf Part 1": [
@@ -507,11 +507,11 @@
    0
   ], 
   "Season (Warm Mix)": [
-   45, 
+   46, 
    290891
   ], 
   "Secret World": [
-   320, 
+   341, 
    280765
   ], 
   "Shoreline": [
@@ -531,7 +531,7 @@
    0
   ], 
   "Someday": [
-   56, 
+   59, 
    296914
   ], 
   "SON OF SUN": [
@@ -543,11 +543,11 @@
    0
   ], 
   "Step": [
-   310, 
+   326, 
    293713
   ], 
   "STOP": [
-   341, 
+   361, 
    210204
   ], 
   "SuperNova": [
@@ -555,7 +555,7 @@
    0
   ], 
   "SuperSonic": [
-   108, 
+   113, 
    261402
   ], 
   "SuperSonic(Mr.Funky Remix)": [
@@ -563,7 +563,7 @@
    0
   ], 
   "Sweet Dream": [
-   72, 
+   80, 
    283312
   ], 
   "Sweet Shining Shooting Star": [
@@ -587,8 +587,8 @@
    0
   ], 
   "The Rain Maker": [
-   9999, 
-   0
+   333, 
+   264715
   ], 
   "Thor": [
    9999, 
@@ -607,7 +607,7 @@
    0
   ], 
   "Voyage": [
-   169, 
+   185, 
    246123
   ], 
   "Wanna Be Your Lover": [
@@ -615,7 +615,7 @@
    0
   ], 
   "Watch Your Step": [
-   76, 
+   79, 
    288911
   ], 
   "White Blue": [
@@ -631,7 +631,7 @@
    0
   ], 
   "Y": [
-   26, 
+   28, 
    287915
   ], 
   "You & Me": [
@@ -837,7 +837,7 @@
    0
   ], 
   "End of the Moonlight": [
-   903, 
+   927, 
    281158
   ], 
   "Enemy Storm": [
@@ -849,11 +849,11 @@
    0
   ], 
   "Eternal Fantasy": [
-   1176, 
+   1215, 
    271925
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
-   1494, 
+   1535, 
    272127
   ], 
   "Everything": [
@@ -929,7 +929,7 @@
    0
   ], 
   "Heart of Witch": [
-   2256, 
+   2315, 
    266781
   ], 
   "Here in the Moment": [
@@ -953,7 +953,7 @@
    0
   ], 
   "In My Heart": [
-   1679, 
+   1720, 
    255672
   ], 
   "In the Tdot": [
@@ -1101,7 +1101,7 @@
    0
   ], 
   "Pretty Girl": [
-   1641, 
+   1693, 
    281560
   ], 
   "Proposed, Flower, Wolf Part 1": [
@@ -1161,7 +1161,7 @@
    0
   ], 
   "Secret World": [
-   2344, 
+   2417, 
    257273
   ], 
   "Shoreline": [
@@ -1193,7 +1193,7 @@
    0
   ], 
   "Step": [
-   2650, 
+   2711, 
    286579
   ], 
   "STOP": [
@@ -1257,7 +1257,7 @@
    0
   ], 
   "Voyage": [
-   843, 
+   862, 
    249496
   ], 
   "Wanna Be Your Lover": [
@@ -1289,7 +1289,7 @@
    0
   ], 
   "Your Own Miracle": [
-   1601, 
+   1638, 
    237122
   ], 
   "You should get over me": [

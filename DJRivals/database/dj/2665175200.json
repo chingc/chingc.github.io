@@ -99,16 +99,16 @@
    0
   ], 
   "Color": [
-   9999, 
-   0
+   254, 
+   253793
   ], 
   "Colours of Sorrow": [
    9999, 
    0
   ], 
   "Come to Me": [
-   9999, 
-   0
+   274, 
+   202211
   ], 
   "Cosmic Fantastic Lovesong": [
    9999, 
@@ -151,7 +151,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   184, 
+   191, 
    271202
   ], 
   "DJMAX": [
@@ -279,7 +279,7 @@
    0
   ], 
   "Heart of Witch": [
-   182, 
+   189, 
    280796
   ], 
   "Here in the Moment": [
@@ -571,7 +571,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   191, 
+   198, 
    274742
   ], 
   "The Guilty": [
@@ -681,7 +681,7 @@
    0
   ], 
   "Ask to Wind": [
-   756, 
+   777, 
    287707
   ], 
   "Ask to Wind -Live version-": [
@@ -753,7 +753,7 @@
    0
   ], 
   "Colours of Sorrow": [
-   959, 
+   998, 
    269080
   ], 
   "Come to Me": [
@@ -789,7 +789,7 @@
    0
   ], 
   "Dear my lady": [
-   968, 
+   992, 
    264032
   ], 
   "Desperado": [
@@ -801,7 +801,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   630, 
+   644, 
    286985
   ], 
   "DJMAX": [
@@ -821,7 +821,7 @@
    0
   ], 
   "Dual Strikers": [
-   1129, 
+   1154, 
    263663
   ], 
   "EGG": [
@@ -837,11 +837,11 @@
    0
   ], 
   "End of the Moonlight": [
-   1550, 
+   1584, 
    266799
   ], 
   "Enemy Storm": [
-   568, 
+   578, 
    285632
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -865,7 +865,7 @@
    0
   ], 
   "Fate": [
-   710, 
+   725, 
    287522
   ], 
   "Feel ma Beat": [
@@ -877,11 +877,11 @@
    0
   ], 
   "First Kiss": [
-   586, 
+   597, 
    296775
   ], 
   "Flea": [
-   1238, 
+   1277, 
    268547
   ], 
   "Forever": [
@@ -925,15 +925,15 @@
    0
   ], 
   "Heart Beat Part. 2": [
-   1161, 
+   1188, 
    270095
   ], 
   "Heart of Witch": [
-   1346, 
+   1386, 
    280572
   ], 
   "Here in the Moment": [
-   505, 
+   521, 
    286272
   ], 
   "HEXAD": [
@@ -953,7 +953,7 @@
    0
   ], 
   "In My Heart": [
-   482, 
+   492, 
    292355
   ], 
   "In the Tdot": [
@@ -961,7 +961,7 @@
    0
   ], 
   "I want You": [
-   816, 
+   835, 
    288763
   ], 
   "Jealousy": [
@@ -969,7 +969,7 @@
    0
   ], 
   "Jumping": [
-   1082, 
+   1108, 
    285171
   ], 
   "Jupiter Driving": [
@@ -989,7 +989,7 @@
    0
   ], 
   "La Campanella : Nu Rave": [
-   271, 
+   282, 
    280208
   ], 
   "Ladymade Star": [
@@ -997,7 +997,7 @@
    0
   ], 
   "Landscape": [
-   937, 
+   972, 
    239330
   ], 
   "Leave me Alone": [
@@ -1021,7 +1021,7 @@
    0
   ], 
   "Lupin": [
-   1244, 
+   1262, 
    295981
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -1041,7 +1041,7 @@
    0
   ], 
   "Melody": [
-   582, 
+   600, 
    274727
   ], 
   "Miles": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   1129, 
+   1157, 
    294561
   ], 
   "MonoXide": [
@@ -1061,15 +1061,15 @@
    0
   ], 
   "Nova(Mr.Funky Remix)": [
-   600, 
+   623, 
    281608
   ], 
   "Now a New Day": [
-   1395, 
+   1424, 
    268230
   ], 
   "OBLIVION": [
-   645, 
+   662, 
    294664
   ], 
   "Ooh La La": [
@@ -1093,7 +1093,7 @@
    0
   ], 
   "Piano Concerto No.1": [
-   1140, 
+   1170, 
    278975
   ], 
   "Play The Future": [
@@ -1101,7 +1101,7 @@
    0
   ], 
   "Pretty Girl": [
-   1999, 
+   2052, 
    276401
   ], 
   "Proposed, Flower, Wolf Part 1": [
@@ -1113,7 +1113,7 @@
    0
   ], 
   "Put Em Up": [
-   696, 
+   717, 
    282035
   ], 
   "Puzzler": [
@@ -1137,7 +1137,7 @@
    0
   ], 
   "Remember": [
-   871, 
+   893, 
    259503
   ], 
   "Right Back": [
@@ -1185,7 +1185,7 @@
    0
   ], 
   "SON OF SUN": [
-   1459, 
+   1507, 
    261275
   ], 
   "Space of Soul": [
@@ -1193,7 +1193,7 @@
    0
   ], 
   "Step": [
-   2855, 
+   2921, 
    284961
   ], 
   "STOP": [
@@ -1205,31 +1205,31 @@
    0
   ], 
   "SuperSonic": [
-   502, 
+   517, 
    278759
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   1043, 
+   1085, 
    261938
   ], 
   "Sweet Dream": [
-   865, 
+   887, 
    279646
   ], 
   "Sweet Shining Shooting Star": [
-   868, 
+   894, 
    264507
   ], 
   "The Clear Blue Sky": [
-   1277, 
+   1326, 
    273768
   ], 
   "The Guilty": [
-   775, 
+   796, 
    272027
   ], 
   "The Last Dance": [
-   418, 
+   435, 
    277861
   ], 
   "The Night Stage": [
@@ -1403,8 +1403,8 @@
    0
   ], 
   "Colours of Sorrow": [
-   9999, 
-   0
+   1914, 
+   244696
   ], 
   "Come to Me": [
    9999, 
@@ -1523,7 +1523,7 @@
    0
   ], 
   "First Kiss": [
-   554, 
+   573, 
    289730
   ], 
   "Flea": [

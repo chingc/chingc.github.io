@@ -653,7 +653,7 @@
  }, 
  "nm": {
   "ACCESS": [
-   1768, 
+   1825, 
    236750
   ], 
   "AD2222": [
@@ -693,7 +693,7 @@
    0
   ], 
   "Beat U Down": [
-   466, 
+   480, 
    273348
   ], 
   "Beautiful Girl (Seth Vogt Electro Vanity Remix)": [
@@ -709,15 +709,15 @@
    0
   ], 
   "Beyond The Future": [
-   256, 
+   260, 
    275639
   ], 
   "Black Swan": [
-   1152, 
+   1183, 
    278866
   ], 
   "Blythe": [
-   688, 
+   702, 
    282280
   ], 
   "Brand NEW Days": [
@@ -773,7 +773,7 @@
    0
   ], 
   "Cypher Gate": [
-   753, 
+   774, 
    279560
   ], 
   "D2": [
@@ -825,7 +825,7 @@
    0
   ], 
   "EGG": [
-   941, 
+   956, 
    275561
   ], 
   "Electronics": [
@@ -833,8 +833,8 @@
    0
   ], 
   "Emblem": [
-   513, 
-   287864
+   507, 
+   288220
   ], 
   "End of the Moonlight": [
    9999, 
@@ -849,7 +849,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   371, 
+   387, 
    296947
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -881,8 +881,8 @@
    0
   ], 
   "Flea": [
-   9999, 
-   0
+   456, 
+   289633
   ], 
   "Forever": [
    9999, 
@@ -1089,7 +1089,7 @@
    0
   ], 
   "PDM": [
-   93, 
+   96, 
    288989
   ], 
   "Piano Concerto No.1": [
@@ -1105,11 +1105,11 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1902, 
+   1968, 
    240591
   ], 
   "Proposed, Flower, Wolf Part 2": [
-   730, 
+   747, 
    279612
   ], 
   "Put Em Up": [
@@ -1157,7 +1157,7 @@
    0
   ], 
   "Season (Warm Mix)": [
-   728, 
+   742, 
    286124
   ], 
   "Secret World": [
@@ -1165,7 +1165,7 @@
    0
   ], 
   "Shoreline": [
-   166, 
+   168, 
    288675
   ], 
   "ShowDown": [
@@ -1189,11 +1189,11 @@
    0
   ], 
   "Space of Soul": [
-   1189, 
+   1209, 
    271238
   ], 
   "Step": [
-   4743, 
+   4862, 
    250397
   ], 
   "STOP": [
@@ -1221,7 +1221,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   2342, 
+   2422, 
    252808
   ], 
   "The Guilty": [
@@ -1335,7 +1335,7 @@
    0
   ], 
   "Ask to Wind -Live version-": [
-   845, 
+   870, 
    262829
   ], 
   "Bamboo on Bamboo": [
@@ -1359,8 +1359,8 @@
    0
   ], 
   "Beyond The Future": [
-   9999, 
-   0
+   280, 
+   273744
   ], 
   "Black Swan": [
    9999, 
@@ -1387,11 +1387,11 @@
    0
   ], 
   "Cherokee": [
-   474, 
+   486, 
    289789
   ], 
   "CLOSER": [
-   195, 
+   200, 
    292156
   ], 
   "Coastal Tempo": [
@@ -1403,7 +1403,7 @@
    0
   ], 
   "Colours of Sorrow": [
-   633, 
+   643, 
    283285
   ], 
   "Come to Me": [
@@ -1483,7 +1483,7 @@
    0
   ], 
   "End of the Moonlight": [
-   1013, 
+   1040, 
    273078
   ], 
   "Enemy Storm": [
@@ -1543,7 +1543,7 @@
    0
   ], 
   "Fury": [
-   636, 
+   653, 
    267663
   ], 
   "Ghost": [
@@ -1555,8 +1555,8 @@
    0
   ], 
   "Gone Astray": [
-   9999, 
-   0
+   647, 
+   267614
   ], 
   "Grave Consequence": [
    9999, 
@@ -1575,7 +1575,7 @@
    0
   ], 
   "Here in the Moment": [
-   622, 
+   643, 
    278993
   ], 
   "HEXAD": [
@@ -1587,11 +1587,11 @@
    0
   ], 
   "IF": [
-   1277, 
+   1310, 
    272003
   ], 
   "In My Heart": [
-   1307, 
+   1343, 
    281464
   ], 
   "In the Tdot": [
@@ -1603,7 +1603,7 @@
    0
   ], 
   "Jealousy": [
-   691, 
+   721, 
    286619
   ], 
   "Jumping": [
@@ -1707,7 +1707,7 @@
    0
   ], 
   "OBLIVION": [
-   500, 
+   511, 
    292572
   ], 
   "Ooh La La": [
@@ -1731,7 +1731,7 @@
    0
   ], 
   "Piano Concerto No.1": [
-   726, 
+   747, 
    268636
   ], 
   "Play The Future": [
@@ -1751,7 +1751,7 @@
    0
   ], 
   "Put Em Up": [
-   873, 
+   896, 
    278747
   ], 
   "Puzzler": [
@@ -1803,8 +1803,8 @@
    0
   ], 
   "Shoreline": [
-   618, 
-   273680
+   341, 
+   284655
   ], 
   "ShowDown": [
    9999, 
@@ -1855,11 +1855,11 @@
    0
   ], 
   "Sweet Shining Shooting Star": [
-   582, 
+   597, 
    282181
   ], 
   "The Clear Blue Sky": [
-   187, 
+   194, 
    296046
   ], 
   "The Guilty": [
@@ -1883,11 +1883,11 @@
    0
   ], 
   "To You": [
-   933, 
+   956, 
    279838
   ], 
   "Trip": [
-   1506, 
+   1542, 
    285088
   ], 
   "Victim of Love": [
@@ -1895,7 +1895,7 @@
    0
   ], 
   "Voyage": [
-   325, 
+   342, 
    287672
   ], 
   "Wanna Be Your Lover": [
@@ -1907,7 +1907,7 @@
    0
   ], 
   "White Blue": [
-   1032, 
+   1062, 
    276331
   ], 
   "Xeus": [
@@ -1941,8 +1941,8 @@
  }, 
  "mx": {
   "ACCESS": [
-   9999, 
-   0
+   1078, 
+   278915
   ], 
   "AD2222": [
    9999, 
@@ -1985,7 +1985,7 @@
    0
   ], 
   "Brand NEW Days": [
-   696, 
+   717, 
    280386
   ], 
   "Break!": [
@@ -2037,7 +2037,7 @@
    0
   ], 
   "Dear my lady": [
-   258, 
+   267, 
    290506
   ], 
   "Desperado(Nu skool Mix)": [
@@ -2045,7 +2045,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   1028, 
+   1064, 
    285136
   ], 
   "Dream Again": [
@@ -2081,11 +2081,11 @@
    0
   ], 
   "Eternal Fantasy": [
-   483, 
+   500, 
    298446
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
-   382, 
+   393, 
    292835
   ], 
   "Everything": [
@@ -2097,7 +2097,7 @@
    0
   ], 
   "Fate": [
-   515, 
+   527, 
    290147
   ], 
   "Feel ma Beat": [
@@ -2193,8 +2193,8 @@
    0
   ], 
   "Ladymade Star": [
-   9999, 
-   0
+   626, 
+   284413
   ], 
   "Landscape": [
    9999, 
@@ -2241,7 +2241,7 @@
    0
   ], 
   "Miles": [
-   620, 
+   641, 
    278485
   ], 
   "Mister": [
@@ -2281,15 +2281,15 @@
    0
   ], 
   "PDM": [
-   384, 
-   283664
+   388, 
+   284236
   ], 
   "Piano Concerto No.1": [
    9999, 
    0
   ], 
   "Play The Future": [
-   771, 
+   800, 
    274024
   ], 
   "Pretty Girl": [
@@ -2297,7 +2297,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 2": [
-   948, 
+   977, 
    259087
   ], 
   "Rage Of Demon": [
@@ -2333,7 +2333,7 @@
    0
   ], 
   "Shoreline": [
-   568, 
+   584, 
    281695
   ], 
   "ShowDown": [
@@ -2349,7 +2349,7 @@
    0
   ], 
   "Someday": [
-   644, 
+   655, 
    292367
   ], 
   "SON OF SUN": [
@@ -2369,7 +2369,7 @@
    0
   ], 
   "SuperSonic": [
-   775, 
+   797, 
    275013
   ], 
   "SuperSonic(Mr.Funky Remix)": [
@@ -2389,7 +2389,7 @@
    0
   ], 
   "The Last Dance": [
-   566, 
+   583, 
    275620
   ], 
   "The Rain Maker": [
@@ -2504,12 +2504,12 @@
    0
   ], 
   "GOLDENDISC set": [
-   9999, 
-   0
+   262, 
+   1123941
   ], 
   "HEART BEAT set": [
-   157, 
-   1412021
+   127, 
+   1692865
   ], 
   "Hyper Speed Set": [
    9999, 
@@ -2532,8 +2532,8 @@
    0
   ], 
   "ORIENTALISM set": [
-   9999, 
-   0
+   1017, 
+   1119811
   ], 
   "Pretty Girl Original Version": [
    9999, 
@@ -2592,7 +2592,7 @@
    0
   ], 
   "UNPLUGGED set": [
-   385, 
+   392, 
    1156617
   ], 
   "Y - Extended Mix": [
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   2445, 
+   2484, 
    1778418
   ], 
   "Raconteur": [

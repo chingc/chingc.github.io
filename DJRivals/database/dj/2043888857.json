@@ -3,7 +3,7 @@
  "icon": "3848067818.png", 
  "star": {
   "ACCESS": [
-   108, 
+   112, 
    291490
   ], 
   "AD2222": [
@@ -27,7 +27,7 @@
    0
   ], 
   "Area 7": [
-   86, 
+   93, 
    286207
   ], 
   "Ask to Wind": [
@@ -67,7 +67,7 @@
    0
   ], 
   "Blythe": [
-   204, 
+   212, 
    237935
   ], 
   "Brand NEW Days": [
@@ -143,7 +143,7 @@
    0
   ], 
   "Desperado": [
-   217, 
+   227, 
    255447
   ], 
   "Desperado(Nu skool Mix)": [
@@ -151,7 +151,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   128, 
+   135, 
    274840
   ], 
   "DJMAX": [
@@ -187,7 +187,7 @@
    0
   ], 
   "End of the Moonlight": [
-   226, 
+   238, 
    262333
   ], 
   "Enemy Storm": [
@@ -199,7 +199,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   68, 
+   71, 
    291168
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -299,7 +299,7 @@
    0
   ], 
   "In my Dream": [
-   109, 
+   118, 
    261830
   ], 
   "In My Heart": [
@@ -331,7 +331,7 @@
    0
   ], 
   "Keys to the World": [
-   102, 
+   109, 
    254102
   ], 
   "Kung-Fu Rider": [
@@ -435,7 +435,7 @@
    0
   ], 
   "Over the Rainbow": [
-   201, 
+   209, 
    261810
   ], 
   "PDM": [
@@ -475,7 +475,7 @@
    0
   ], 
   "Raise me up": [
-   113, 
+   118, 
    284129
   ], 
   "Ray of Illuminati": [
@@ -503,7 +503,7 @@
    0
   ], 
   "Say It From Your Heart": [
-   25, 
+   27, 
    296375
   ], 
   "Season (Warm Mix)": [
@@ -527,7 +527,7 @@
    0
   ], 
   "SIN": [
-   219, 
+   233, 
    241961
   ], 
   "Someday": [
@@ -563,7 +563,7 @@
    0
   ], 
   "Sweet Dream": [
-   78, 
+   86, 
    282775
   ], 
   "Sweet Shining Shooting Star": [
@@ -571,7 +571,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   451, 
+   472, 
    257147
   ], 
   "The Guilty": [
@@ -587,7 +587,7 @@
    0
   ], 
   "The Rain Maker": [
-   120, 
+   124, 
    281406
   ], 
   "Thor": [
@@ -619,7 +619,7 @@
    0
   ], 
   "White Blue": [
-   42, 
+   44, 
    296274
   ], 
   "Xeus": [
@@ -643,7 +643,7 @@
    0
   ], 
   "You should get over me": [
-   488, 
+   516, 
    271007
   ], 
   "Zet(Mr.Funky Remix)": [
@@ -653,7 +653,7 @@
  }, 
  "nm": {
   "ACCESS": [
-   900, 
+   924, 
    288092
   ], 
   "AD2222": [
@@ -725,7 +725,7 @@
    0
   ], 
   "Break!": [
-   2801, 
+   2873, 
    244143
   ], 
   "Burn It Down": [
@@ -761,7 +761,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   1155, 
+   1189, 
    279761
   ], 
   "Cozy Quilt": [
@@ -801,7 +801,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   1885, 
+   1928, 
    260186
   ], 
   "DJMAX": [
@@ -849,7 +849,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   1581, 
+   1631, 
    258746
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -933,7 +933,7 @@
    0
   ], 
   "Here in the Moment": [
-   1291, 
+   1338, 
    263357
   ], 
   "HEXAD": [
@@ -961,7 +961,7 @@
    0
   ], 
   "I want You": [
-   1944, 
+   1992, 
    274759
   ], 
   "Jealousy": [
@@ -969,7 +969,7 @@
    0
   ], 
   "Jumping": [
-   2141, 
+   2184, 
    268347
   ], 
   "Jupiter Driving": [
@@ -1005,7 +1005,7 @@
    0
   ], 
   "Love is Beautiful": [
-   790, 
+   809, 
    256861
   ], 
   "Lovely Hands": [
@@ -1041,7 +1041,7 @@
    0
   ], 
   "Melody": [
-   1569, 
+   1615, 
    232229
   ], 
   "Miles": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   2302, 
+   2369, 
    284096
   ], 
   "MonoXide": [
@@ -1061,7 +1061,7 @@
    0
   ], 
   "Nova(Mr.Funky Remix)": [
-   1293, 
+   1337, 
    261654
   ], 
   "Now a New Day": [
@@ -1069,7 +1069,7 @@
    0
   ], 
   "OBLIVION": [
-   1537, 
+   1573, 
    285983
   ], 
   "Ooh La La": [
@@ -1125,8 +1125,8 @@
    0
   ], 
   "Raise me up": [
-   9999, 
-   0
+   1062, 
+   274143
   ], 
   "Ray of Illuminati": [
    9999, 
@@ -1153,11 +1153,11 @@
    0
   ], 
   "Say It From Your Heart": [
-   431, 
+   443, 
    291193
   ], 
   "Season (Warm Mix)": [
-   962, 
+   983, 
    276254
   ], 
   "Secret World": [
@@ -1213,7 +1213,7 @@
    0
   ], 
   "Sweet Dream": [
-   1670, 
+   1722, 
    262880
   ], 
   "Sweet Shining Shooting Star": [
@@ -1245,11 +1245,11 @@
    0
   ], 
   "To You": [
-   9999, 
-   0
+   1319, 
+   266775
   ], 
   "Trip": [
-   1578, 
+   1621, 
    272303
   ], 
   "Victim of Love": [
@@ -1269,8 +1269,8 @@
    0
   ], 
   "White Blue": [
-   1521, 
-   268246
+   1501, 
+   269634
   ], 
   "Xeus": [
    9999, 
@@ -1707,8 +1707,8 @@
    0
   ], 
   "OBLIVION": [
-   9999, 
-   0
+   3640, 
+   254830
   ], 
   "Ooh La La": [
    9999, 

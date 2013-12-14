@@ -3,7 +3,7 @@
  "icon": "2191568709.png", 
  "star": {
   "ACCESS": [
-   48, 
+   50, 
    295907
   ], 
   "AD2222": [
@@ -71,11 +71,11 @@
    0
   ], 
   "Brand NEW Days": [
-   14, 
+   15, 
    299978
   ], 
   "Break!": [
-   25, 
+   28, 
    292895
   ], 
   "Burn It Down": [
@@ -111,7 +111,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   11, 
+   13, 
    299963
   ], 
   "Cozy Quilt": [
@@ -123,7 +123,7 @@
    0
   ], 
   "Cypher Gate": [
-   53, 
+   56, 
    276687
   ], 
   "D2": [
@@ -227,7 +227,7 @@
    0
   ], 
   "First Kiss": [
-   28, 
+   29, 
    299970
   ], 
   "Flea": [
@@ -283,7 +283,7 @@
    0
   ], 
   "Here in the Moment": [
-   55, 
+   56, 
    294737
   ], 
   "HEXAD": [
@@ -303,15 +303,15 @@
    0
   ], 
   "In My Heart": [
-   236, 
+   253, 
    279233
   ], 
   "In the Tdot": [
-   285, 
+   297, 
    288487
   ], 
   "I want You": [
-   324, 
+   337, 
    275829
   ], 
   "Jealousy": [
@@ -319,7 +319,7 @@
    0
   ], 
   "Jumping": [
-   824, 
+   864, 
    253486
   ], 
   "Jupiter Driving": [
@@ -391,7 +391,7 @@
    0
   ], 
   "Melody": [
-   76, 
+   80, 
    267886
   ], 
   "Miles": [
@@ -419,11 +419,11 @@
    0
   ], 
   "OBLIVION": [
-   259, 
+   270, 
    290094
   ], 
   "Ooh La La": [
-   205, 
+   217, 
    284296
   ], 
   "OUT LAW - Reborn": [
@@ -439,15 +439,15 @@
    0
   ], 
   "PDM": [
-   95, 
+   101, 
    271030
   ], 
   "Piano Concerto No.1": [
-   166, 
+   178, 
    269147
   ], 
   "Play The Future": [
-   37, 
+   42, 
    295110
   ], 
   "Pretty Girl": [
@@ -475,7 +475,7 @@
    0
   ], 
   "Raise me up": [
-   133, 
+   138, 
    281958
   ], 
   "Ray of Illuminati": [
@@ -487,7 +487,7 @@
    0
   ], 
   "Remember": [
-   153, 
+   162, 
    242706
   ], 
   "Right Back": [
@@ -507,11 +507,11 @@
    0
   ], 
   "Season (Warm Mix)": [
-   414, 
+   437, 
    231477
   ], 
   "Secret World": [
-   939, 
+   986, 
    243298
   ], 
   "Shoreline": [
@@ -555,15 +555,15 @@
    0
   ], 
   "SuperSonic": [
-   86, 
+   90, 
    264172
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   129, 
+   135, 
    278704
   ], 
   "Sweet Dream": [
-   277, 
+   294, 
    263168
   ], 
   "Sweet Shining Shooting Star": [
@@ -587,7 +587,7 @@
    0
   ], 
   "The Rain Maker": [
-   589, 
+   618, 
    242977
   ], 
   "Thor": [
@@ -653,7 +653,7 @@
  }, 
  "nm": {
   "ACCESS": [
-   370, 
+   380, 
    298499
   ], 
   "AD2222": [
@@ -669,15 +669,15 @@
    0
   ], 
   "A life with You": [
-   793, 
+   809, 
    260158
   ], 
   "Angel": [
-   2207, 
+   2250, 
    270551
   ], 
   "Area 7": [
-   1206, 
+   1232, 
    263947
   ], 
   "Ask to Wind": [
@@ -717,15 +717,15 @@
    0
   ], 
   "Blythe": [
-   2048, 
+   2103, 
    245122
   ], 
   "Brand NEW Days": [
-   802, 
+   825, 
    286796
   ], 
   "Break!": [
-   1142, 
+   1163, 
    277722
   ], 
   "Burn It Down": [
@@ -761,7 +761,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   91, 
+   93, 
    299985
   ], 
   "Cozy Quilt": [
@@ -773,7 +773,7 @@
    0
   ], 
   "Cypher Gate": [
-   1215, 
+   1245, 
    266471
   ], 
   "D2": [
@@ -805,11 +805,11 @@
    0
   ], 
   "DJMAX": [
-   432, 
+   444, 
    285516
   ], 
   "Dream Again": [
-   1518, 
+   1547, 
    260917
   ], 
   "Dream of Winds": [
@@ -825,7 +825,7 @@
    0
   ], 
   "EGG": [
-   753, 
+   761, 
    281248
   ], 
   "Electronics": [
@@ -833,7 +833,7 @@
    0
   ], 
   "Emblem": [
-   1043, 
+   1064, 
    271804
   ], 
   "End of the Moonlight": [
@@ -841,7 +841,7 @@
    0
   ], 
   "Enemy Storm": [
-   914, 
+   928, 
    273841
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -877,7 +877,7 @@
    0
   ], 
   "First Kiss": [
-   434, 
+   442, 
    298566
   ], 
   "Flea": [
@@ -921,19 +921,19 @@
    0
   ], 
   "Hanzup!": [
-   9999, 
-   0
+   1588, 
+   246841
   ], 
   "Heart Beat Part. 2": [
    9999, 
    0
   ], 
   "Heart of Witch": [
-   968, 
+   995, 
    285420
   ], 
   "Here in the Moment": [
-   327, 
+   337, 
    292339
   ], 
   "HEXAD": [
@@ -941,7 +941,7 @@
    0
   ], 
   "Honeymoon": [
-   344, 
+   349, 
    290097
   ], 
   "IF": [
@@ -957,11 +957,11 @@
    0
   ], 
   "In the Tdot": [
-   569, 
+   586, 
    298592
   ], 
   "I want You": [
-   2320, 
+   2377, 
    269670
   ], 
   "Jealousy": [
@@ -981,19 +981,19 @@
    0
   ], 
   "Keys to the World": [
-   9999, 
-   0
+   842, 
+   257114
   ], 
   "Kung-Fu Rider": [
    9999, 
    0
   ], 
   "La Campanella : Nu Rave": [
-   211, 
+   220, 
    283340
   ], 
   "Ladymade Star": [
-   451, 
+   466, 
    295995
   ], 
   "Landscape": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   2454, 
+   2520, 
    281901
   ], 
   "MonoXide": [
@@ -1069,11 +1069,11 @@
    0
   ], 
   "OBLIVION": [
-   187, 
+   190, 
    299299
   ], 
   "Ooh La La": [
-   990, 
+   1015, 
    283563
   ], 
   "OUT LAW - Reborn": [
@@ -1093,11 +1093,11 @@
    0
   ], 
   "Piano Concerto No.1": [
-   1737, 
+   1781, 
    265300
   ], 
   "Play The Future": [
-   166, 
+   167, 
    295045
   ], 
   "Pretty Girl": [
@@ -1125,7 +1125,7 @@
    0
   ], 
   "Raise me up": [
-   667, 
+   677, 
    284141
   ], 
   "Ray of Illuminati": [
@@ -1181,19 +1181,19 @@
    0
   ], 
   "Someday": [
-   898, 
+   918, 
    287737
   ], 
   "SON OF SUN": [
-   1717, 
-   254655
+   1753, 
+   255287
   ], 
   "Space of Soul": [
    9999, 
    0
   ], 
   "Step": [
-   813, 
+   822, 
    297891
   ], 
   "STOP": [
@@ -1209,7 +1209,7 @@
    0
   ], 
   "SuperSonic(Mr.Funky Remix)": [
-   395, 
+   409, 
    280821
   ], 
   "Sweet Dream": [
@@ -1221,11 +1221,11 @@
    0
   ], 
   "The Clear Blue Sky": [
-   9999, 
-   0
+   2801, 
+   243276
   ], 
   "The Guilty": [
-   935, 
+   958, 
    267333
   ], 
   "The Last Dance": [
@@ -1273,7 +1273,7 @@
    0
   ], 
   "Xeus": [
-   2206, 
+   2263, 
    273042
   ], 
   "XLASHER": [
@@ -1303,7 +1303,7 @@
  }, 
  "hd": {
   "ACCESS": [
-   476, 
+   490, 
    298504
   ], 
   "AD2222": [
@@ -1411,7 +1411,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   1401, 
+   1438, 
    281881
   ], 
   "Cozy Quilt": [
@@ -1451,7 +1451,7 @@
    0
   ], 
   "DJMAX": [
-   598, 
+   614, 
    275481
   ], 
   "Dream Again": [
@@ -1575,7 +1575,7 @@
    0
   ], 
   "Here in the Moment": [
-   1269, 
+   1308, 
    253266
   ], 
   "HEXAD": [
@@ -1591,11 +1591,11 @@
    0
   ], 
   "In My Heart": [
-   1178, 
-   283571
+   720, 
+   291245
   ], 
   "In the Tdot": [
-   486, 
+   494, 
    293421
   ], 
   "I want You": [
@@ -1707,7 +1707,7 @@
    0
   ], 
   "OBLIVION": [
-   3389, 
+   3475, 
    259539
   ], 
   "Ooh La La": [
@@ -1743,7 +1743,7 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1653, 
+   1693, 
    288036
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1799,7 +1799,7 @@
    0
   ], 
   "Secret World": [
-   2314, 
+   2376, 
    260771
   ], 
   "Shoreline": [
@@ -1819,7 +1819,7 @@
    0
   ], 
   "Someday": [
-   273, 
+   279, 
    299298
   ], 
   "SON OF SUN": [
@@ -2480,8 +2480,8 @@
    0
   ], 
   "EGG (Extended Mix)": [
-   9999, 
-   0
+   929, 
+   1017438
   ], 
   "ELECTRO BEAT set": [
    9999, 
@@ -2516,7 +2516,7 @@
    0
   ], 
   "IDOL set": [
-   331, 
+   345, 
    1457657
   ], 
   "Jumping Original Version": [
@@ -2572,12 +2572,12 @@
    0
   ], 
   "Step Original Version": [
-   845, 
+   859, 
    1153673
   ], 
   "SuperSonic (Mr.Funky Extended Mix)": [
-   9999, 
-   0
+   848, 
+   1033326
   ], 
   "SUPER SPEED set": [
    9999, 
@@ -2602,7 +2602,7 @@
  }, 
  "mission": {
   "A to Z": [
-   1339, 
+   1361, 
    868097
   ], 
   "Future Challenge": [
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   1941, 
+   1974, 
    2624085
   ], 
   "Raconteur": [

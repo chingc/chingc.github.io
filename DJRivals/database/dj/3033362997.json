@@ -725,8 +725,8 @@
    0
   ], 
   "Break!": [
-   9999, 
-   0
+   2742, 
+   248741
   ], 
   "Burn It Down": [
    9999, 
@@ -761,7 +761,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   1580, 
+   1621, 
    270415
   ], 
   "Cozy Quilt": [
@@ -853,8 +853,8 @@
    0
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
-   9999, 
-   0
+   1545, 
+   271692
   ], 
   "Everything": [
    9999, 
@@ -877,7 +877,7 @@
    0
   ], 
   "First Kiss": [
-   2452, 
+   2515, 
    260634
   ], 
   "Flea": [
@@ -889,8 +889,8 @@
    0
   ], 
   "Freedom": [
-   9999, 
-   0
+   1369, 
+   245935
   ], 
   "Funky People": [
    9999, 
@@ -1289,7 +1289,7 @@
    0
   ], 
   "Your Own Miracle": [
-   1859, 
+   1908, 
    217746
   ], 
   "You should get over me": [
@@ -2456,7 +2456,7 @@
    0
   ], 
   "BRUTALIZER set": [
-   870, 
+   882, 
    1155497
   ], 
   "CHALLENGER set": [
@@ -2464,8 +2464,8 @@
    0
   ], 
   "CONQUEROR set": [
-   9999, 
-   0
+   356, 
+   1133055
   ], 
   "COTTON CANDY set": [
    9999, 
@@ -2492,7 +2492,7 @@
    0
   ], 
   "Fatality Set": [
-   67, 
+   68, 
    2016801
   ], 
   "FIRST STEP set": [
@@ -2504,7 +2504,7 @@
    0
   ], 
   "GOLDENDISC set": [
-   174, 
+   177, 
    1155169
   ], 
   "HEART BEAT set": [
@@ -2512,7 +2512,7 @@
    0
   ], 
   "Hyper Speed Set": [
-   116, 
+   117, 
    2297011
   ], 
   "IDOL set": [
@@ -2520,7 +2520,7 @@
    0
   ], 
   "Jumping Original Version": [
-   950, 
+   966, 
    1138202
   ], 
   "MAXIMUM set": [
@@ -2536,7 +2536,7 @@
    0
   ], 
   "Pretty Girl Original Version": [
-   528, 
+   537, 
    1162015
   ], 
   "Radio Wave Set": [
@@ -2560,7 +2560,7 @@
    0
   ], 
   "Sound Lab Set": [
-   181, 
+   185, 
    2300931
   ], 
   "SPECIALIST2 set": [
@@ -2568,19 +2568,19 @@
    0
   ], 
   "SPECIALIST set": [
-   149, 
+   152, 
    1165272
   ], 
   "Step Original Version": [
-   796, 
+   810, 
    1160903
   ], 
   "SuperSonic (Mr.Funky Extended Mix)": [
-   440, 
+   447, 
    1152170
   ], 
   "SUPER SPEED set": [
-   291, 
+   302, 
    1138359
   ], 
   "SWEET SOUND set": [
@@ -2588,8 +2588,8 @@
    0
   ], 
   "Thor - Extended Mix": [
-   311, 
-   1130483
+   304, 
+   1136516
   ], 
   "UNPLUGGED set": [
    9999, 
@@ -2602,7 +2602,7 @@
  }, 
  "mission": {
   "A to Z": [
-   793, 
+   801, 
    3516410
   ], 
   "Future Challenge": [
@@ -2638,7 +2638,7 @@
    0
   ], 
   "TechniColor": [
-   287, 
+   290, 
    6818673
   ]
  }

@@ -3,7 +3,7 @@
  "icon": "759241391.png", 
  "star": {
   "ACCESS": [
-   195, 
+   205, 
    281095
   ], 
   "AD2222": [
@@ -75,7 +75,7 @@
    0
   ], 
   "Break!": [
-   391, 
+   418, 
    258625
   ], 
   "Burn It Down": [
@@ -139,7 +139,7 @@
    0
   ], 
   "Dear my lady": [
-   354, 
+   362, 
    256561
   ], 
   "Desperado": [
@@ -151,7 +151,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   450, 
+   463, 
    255434
   ], 
   "DJMAX": [
@@ -191,7 +191,7 @@
    0
   ], 
   "Enemy Storm": [
-   427, 
+   447, 
    255281
   ], 
   "Enemy Storm(Dark Jungle Mix)": [
@@ -199,11 +199,11 @@
    0
   ], 
   "Eternal Fantasy": [
-   288, 
+   295, 
    269801
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
-   79, 
+   86, 
    299975
   ], 
   "Everything": [
@@ -215,7 +215,7 @@
    0
   ], 
   "Fate": [
-   281, 
+   291, 
    260594
   ], 
   "Feel ma Beat": [
@@ -235,7 +235,7 @@
    0
   ], 
   "Forever": [
-   82, 
+   87, 
    268521
   ], 
   "Freedom": [
@@ -283,7 +283,7 @@
    0
   ], 
   "Here in the Moment": [
-   467, 
+   485, 
    259157
   ], 
   "HEXAD": [
@@ -319,11 +319,11 @@
    0
   ], 
   "Jumping": [
-   146, 
+   154, 
    289080
   ], 
   "Jupiter Driving": [
-   212, 
+   220, 
    253940
   ], 
   "Just for Today": [
@@ -355,7 +355,7 @@
    0
   ], 
   "Love is Beautiful": [
-   149, 
+   162, 
    248089
   ], 
   "Lovely Hands": [
@@ -363,15 +363,15 @@
    0
   ], 
   "Love mode": [
-   226, 
+   238, 
    280514
   ], 
   "Lover": [
-   195, 
+   207, 
    251425
   ], 
   "Lupin": [
-   100, 
+   105, 
    298358
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -399,7 +399,7 @@
    0
   ], 
   "Mister": [
-   818, 
+   855, 
    232527
   ], 
   "MonoXide": [
@@ -419,7 +419,7 @@
    0
   ], 
   "OBLIVION": [
-   135, 
+   144, 
    294679
   ], 
   "Ooh La La": [
@@ -447,15 +447,15 @@
    0
   ], 
   "Play The Future": [
-   688, 
+   717, 
    260311
   ], 
   "Pretty Girl": [
-   439, 
+   463, 
    265613
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   79, 
+   82, 
    293088
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -475,7 +475,7 @@
    0
   ], 
   "Raise me up": [
-   278, 
+   289, 
    265339
   ], 
   "Ray of Illuminati": [
@@ -487,7 +487,7 @@
    0
   ], 
   "Remember": [
-   316, 
+   328, 
    218414
   ], 
   "Right Back": [
@@ -507,7 +507,7 @@
    0
   ], 
   "Season (Warm Mix)": [
-   78, 
+   81, 
    283223
   ], 
   "Secret World": [
@@ -531,7 +531,7 @@
    0
   ], 
   "Someday": [
-   680, 
+   711, 
    260667
   ], 
   "SON OF SUN": [
@@ -543,7 +543,7 @@
    0
   ], 
   "Step": [
-   229, 
+   240, 
    295985
   ], 
   "STOP": [
@@ -571,7 +571,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   1030, 
+   1070, 
    224752
   ], 
   "The Guilty": [
@@ -595,11 +595,11 @@
    0
   ], 
   "To You": [
-   96, 
+   99, 
    293742
   ], 
   "Trip": [
-   287, 
+   294, 
    261763
   ], 
   "Victim of Love": [
@@ -615,11 +615,11 @@
    0
   ], 
   "Watch Your Step": [
-   183, 
+   187, 
    279475
   ], 
   "White Blue": [
-   659, 
+   683, 
    240317
   ], 
   "Xeus": [
@@ -643,7 +643,7 @@
    0
   ], 
   "You should get over me": [
-   1204, 
+   1272, 
    205495
   ], 
   "Zet(Mr.Funky Remix)": [
@@ -653,7 +653,7 @@
  }, 
  "nm": {
   "ACCESS": [
-   1684, 
+   1739, 
    245059
   ], 
   "AD2222": [
@@ -801,7 +801,7 @@
    0
   ], 
   "DIVINE SERVICE": [
-   2621, 
+   2693, 
    233680
   ], 
   "DJMAX": [
@@ -849,7 +849,7 @@
    0
   ], 
   "Eternal Fantasy": [
-   2035, 
+   2101, 
    238226
   ], 
   "Eternal Memory - \uc18c\ub140\uc758 \uafc8": [
@@ -969,7 +969,7 @@
    0
   ], 
   "Jumping": [
-   2529, 
+   2577, 
    260730
   ], 
   "Jupiter Driving": [
@@ -1013,7 +1013,7 @@
    0
   ], 
   "Love mode": [
-   2340, 
+   2418, 
    225798
   ], 
   "Lover": [
@@ -1021,7 +1021,7 @@
    0
   ], 
   "Lupin": [
-   3506, 
+   3589, 
    279870
   ], 
   "Luv Flow(Funky House Mix)": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   3443, 
+   3540, 
    255992
   ], 
   "MonoXide": [
@@ -1069,7 +1069,7 @@
    0
   ], 
   "OBLIVION": [
-   2607, 
+   2679, 
    273004
   ], 
   "Ooh La La": [
@@ -1101,11 +1101,11 @@
    0
   ], 
   "Pretty Girl": [
-   3161, 
+   3236, 
    244710
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   1513, 
+   1559, 
    286261
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1125,7 +1125,7 @@
    0
   ], 
   "Raise me up": [
-   1888, 
+   1932, 
    242988
   ], 
   "Ray of Illuminati": [
@@ -1181,7 +1181,7 @@
    0
   ], 
   "Someday": [
-   1383, 
+   1418, 
    276111
   ], 
   "SON OF SUN": [
@@ -1193,7 +1193,7 @@
    0
   ], 
   "Step": [
-   4283, 
+   4387, 
    266387
   ], 
   "STOP": [
