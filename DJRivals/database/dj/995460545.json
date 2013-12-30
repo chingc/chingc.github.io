@@ -3,7 +3,7 @@
  "icon": "3192723378.png", 
  "star": {
   "ACCESS": [
-   445, 
+   450, 
    248039
   ], 
   "AD2222": [
@@ -63,11 +63,11 @@
    0
   ], 
   "Black Swan": [
-   961, 
+   974, 
    254380
   ], 
   "Blythe": [
-   258, 
+   260, 
    229325
   ], 
   "Brand NEW Days": [
@@ -83,7 +83,7 @@
    0
   ], 
   "Chemical Slave": [
-   53, 
+   54, 
    240371
   ], 
   "Cherokee": [
@@ -99,7 +99,7 @@
    0
   ], 
   "Color": [
-   325, 
+   332, 
    229986
   ], 
   "Colours of Sorrow": [
@@ -107,11 +107,11 @@
    0
   ], 
   "Come to Me": [
-   248, 
+   253, 
    212675
   ], 
   "Cosmic Fantastic Lovesong": [
-   595, 
+   599, 
    236470
   ], 
   "Cozy Quilt": [
@@ -127,7 +127,7 @@
    0
   ], 
   "D2": [
-   170, 
+   174, 
    236510
   ], 
   "DARK ENVY": [
@@ -187,7 +187,7 @@
    0
   ], 
   "End of the Moonlight": [
-   288, 
+   290, 
    255914
   ], 
   "Enemy Storm": [
@@ -279,7 +279,7 @@
    0
   ], 
   "Heart of Witch": [
-   408, 
+   415, 
    267156
   ], 
   "Here in the Moment": [
@@ -291,7 +291,7 @@
    0
   ], 
   "Honeymoon": [
-   268, 
+   271, 
    214100
   ], 
   "IF": [
@@ -303,7 +303,7 @@
    0
   ], 
   "In My Heart": [
-   559, 
+   564, 
    263245
   ], 
   "In the Tdot": [
@@ -311,7 +311,7 @@
    0
   ], 
   "I want You": [
-   339, 
+   341, 
    275722
   ], 
   "Jealousy": [
@@ -335,7 +335,7 @@
    0
   ], 
   "Kung-Fu Rider": [
-   282, 
+   287, 
    274573
   ], 
   "La Campanella : Nu Rave": [
@@ -355,7 +355,7 @@
    0
   ], 
   "Love is Beautiful": [
-   322, 
+   325, 
    215488
   ], 
   "Lovely Hands": [
@@ -391,15 +391,15 @@
    0
   ], 
   "Melody": [
-   594, 
+   598, 
    200179
   ], 
   "Miles": [
-   253, 
+   257, 
    226311
   ], 
   "Mister": [
-   495, 
+   500, 
    273594
   ], 
   "MonoXide": [
@@ -419,7 +419,7 @@
    0
   ], 
   "OBLIVION": [
-   828, 
+   834, 
    271833
   ], 
   "Ooh La La": [
@@ -435,7 +435,7 @@
    0
   ], 
   "Over the Rainbow": [
-   756, 
+   765, 
    212044
   ], 
   "PDM": [
@@ -443,11 +443,11 @@
    0
   ], 
   "Piano Concerto No.1": [
-   511, 
+   517, 
    243580
   ], 
   "Play The Future": [
-   583, 
+   584, 
    266050
   ], 
   "Pretty Girl": [
@@ -475,7 +475,7 @@
    0
   ], 
   "Raise me up": [
-   583, 
+   590, 
    214999
   ], 
   "Ray of Illuminati": [
@@ -527,7 +527,7 @@
    0
   ], 
   "SIN": [
-   258, 
+   260, 
    237887
   ], 
   "Someday": [
@@ -563,7 +563,7 @@
    0
   ], 
   "Sweet Dream": [
-   665, 
+   676, 
    222223
   ], 
   "Sweet Shining Shooting Star": [
@@ -571,11 +571,11 @@
    0
   ], 
   "The Clear Blue Sky": [
-   411, 
+   412, 
    260810
   ], 
   "The Guilty": [
-   463, 
+   468, 
    225795
   ], 
   "The Last Dance": [
@@ -615,7 +615,7 @@
    0
   ], 
   "Watch Your Step": [
-   348, 
+   351, 
    266625
   ], 
   "White Blue": [
@@ -631,7 +631,7 @@
    0
   ], 
   "Y": [
-   286, 
+   291, 
    243067
   ], 
   "You & Me": [
@@ -653,7 +653,7 @@
  }, 
  "nm": {
   "ACCESS": [
-   1455, 
+   1465, 
    264347
   ], 
   "AD2222": [
@@ -681,7 +681,7 @@
    0
   ], 
   "Ask to Wind": [
-   1618, 
+   1620, 
    243859
   ], 
   "Ask to Wind -Live version-": [
@@ -761,7 +761,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   2562, 
+   2575, 
    235488
   ], 
   "Cozy Quilt": [
@@ -837,7 +837,7 @@
    0
   ], 
   "End of the Moonlight": [
-   2203, 
+   2217, 
    249015
   ], 
   "Enemy Storm": [
@@ -877,7 +877,7 @@
    0
   ], 
   "First Kiss": [
-   2524, 
+   2537, 
    260227
   ], 
   "Flea": [
@@ -929,7 +929,7 @@
    0
   ], 
   "Heart of Witch": [
-   2340, 
+   2345, 
    266246
   ], 
   "Here in the Moment": [
@@ -961,7 +961,7 @@
    0
   ], 
   "I want You": [
-   3425, 
+   3436, 
    242015
   ], 
   "Jealousy": [
@@ -1049,7 +1049,7 @@
    0
   ], 
   "Mister": [
-   3083, 
+   3089, 
    271916
   ], 
   "MonoXide": [
@@ -1069,7 +1069,7 @@
    0
   ], 
   "OBLIVION": [
-   2302, 
+   2309, 
    278325
   ], 
   "Ooh La La": [
@@ -1097,7 +1097,7 @@
    0
   ], 
   "Play The Future": [
-   2424, 
+   2439, 
    240096
   ], 
   "Pretty Girl": [
@@ -1125,7 +1125,7 @@
    0
   ], 
   "Raise me up": [
-   2259, 
+   2272, 
    205395
   ], 
   "Ray of Illuminati": [
@@ -1161,7 +1161,7 @@
    0
   ], 
   "Secret World": [
-   2627, 
+   2639, 
    247015
   ], 
   "Shoreline": [
@@ -1221,7 +1221,7 @@
    0
   ], 
   "The Clear Blue Sky": [
-   2544, 
+   2554, 
    249452
   ], 
   "The Guilty": [

@@ -211,7 +211,7 @@
    0
   ], 
   "Fallin' in Luv": [
-   31, 
+   32, 
    274821
   ], 
   "Fate": [
@@ -255,7 +255,7 @@
    0
   ], 
   "Ghost": [
-   90, 
+   92, 
    252163
   ], 
   "Give Me 5": [
@@ -283,7 +283,7 @@
    0
   ], 
   "Here in the Moment": [
-   216, 
+   221, 
    280823
   ], 
   "HEXAD": [
@@ -391,7 +391,7 @@
    0
   ], 
   "Melody": [
-   176, 
+   178, 
    249248
   ], 
   "Miles": [
@@ -407,7 +407,7 @@
    0
   ], 
   "My Heart, My Soul": [
-   536, 
+   542, 
    264780
   ], 
   "Nova(Mr.Funky Remix)": [
@@ -463,7 +463,7 @@
    0
   ], 
   "Put Em Up": [
-   134, 
+   136, 
    283947
   ], 
   "Puzzler": [
@@ -503,7 +503,7 @@
    0
   ], 
   "Say It From Your Heart": [
-   305, 
+   308, 
    251184
   ], 
   "Season (Warm Mix)": [
@@ -599,7 +599,7 @@
    287175
   ], 
   "Trip": [
-   124, 
+   125, 
    284708
   ], 
   "Victim of Love": [
@@ -615,7 +615,7 @@
    0
   ], 
   "Watch Your Step": [
-   223, 
+   226, 
    276837
   ], 
   "White Blue": [
@@ -681,7 +681,7 @@
    0
   ], 
   "Ask to Wind": [
-   842, 
+   845, 
    285481
   ], 
   "Ask to Wind -Live version-": [
@@ -741,8 +741,8 @@
    0
   ], 
   "CLOSER": [
-   603, 
-   259256
+   510, 
+   264975
   ], 
   "Coastal Tempo": [
    9999, 
@@ -761,7 +761,7 @@
    0
   ], 
   "Cosmic Fantastic Lovesong": [
-   721, 
+   727, 
    289847
   ], 
   "Cozy Quilt": [
@@ -861,7 +861,7 @@
    0
   ], 
   "Fallin' in Luv": [
-   914, 
+   917, 
    270010
   ], 
   "Fate": [
@@ -901,11 +901,11 @@
    0
   ], 
   "Get Down": [
-   1480, 
+   1490, 
    264533
   ], 
   "Ghost": [
-   921, 
+   924, 
    288537
   ], 
   "Give Me 5": [
@@ -925,7 +925,7 @@
    0
   ], 
   "Heart Beat Part. 2": [
-   1615, 
+   1617, 
    261590
   ], 
   "Heart of Witch": [
@@ -953,11 +953,11 @@
    0
   ], 
   "In My Heart": [
-   1039, 
+   1042, 
    277780
   ], 
   "In the Tdot": [
-   693, 
+   696, 
    297983
   ], 
   "I want You": [
@@ -1021,15 +1021,15 @@
    0
   ], 
   "Lupin": [
-   1957, 
-   292676
+   1367, 
+   295527
   ], 
   "Luv Flow(Funky House Mix)": [
    9999, 
    0
   ], 
   "Luv is True": [
-   733, 
+   734, 
    272360
   ], 
   "MASAI(Electro House Mix)": [
@@ -1069,7 +1069,7 @@
    0
   ], 
   "OBLIVION": [
-   1641, 
+   1647, 
    285324
   ], 
   "Ooh La La": [
@@ -1101,11 +1101,11 @@
    0
   ], 
   "Pretty Girl": [
-   9999, 
-   0
+   2248, 
+   273410
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   610, 
+   615, 
    299194
   ], 
   "Proposed, Flower, Wolf Part 2": [
@@ -1113,7 +1113,7 @@
    0
   ], 
   "Put Em Up": [
-   924, 
+   931, 
    275791
   ], 
   "Puzzler": [
@@ -1125,7 +1125,7 @@
    0
   ], 
   "Raise me up": [
-   1177, 
+   1185, 
    270865
   ], 
   "Ray of Illuminati": [
@@ -1157,11 +1157,11 @@
    0
   ], 
   "Season (Warm Mix)": [
-   454, 
+   457, 
    294830
   ], 
   "Secret World": [
-   2462, 
+   2474, 
    255784
   ], 
   "Shoreline": [
@@ -1193,8 +1193,8 @@
    0
   ], 
   "Step": [
-   9999, 
-   0
+   2415, 
+   288758
   ], 
   "STOP": [
    9999, 
@@ -1229,11 +1229,11 @@
    0
   ], 
   "The Last Dance": [
-   821, 
+   825, 
    259478
   ], 
   "The Night Stage": [
-   673, 
+   676, 
    268004
   ], 
   "The Rain Maker": [
@@ -1245,27 +1245,27 @@
    0
   ], 
   "To You": [
-   300, 
+   302, 
    298383
   ], 
   "Trip": [
-   560, 
-   294075
+   388, 
+   298419
   ], 
   "Victim of Love": [
    9999, 
    0
   ], 
   "Voyage": [
-   9999, 
-   0
+   467, 
+   272332
   ], 
   "Wanna Be Your Lover": [
    9999, 
    0
   ], 
   "Watch Your Step": [
-   2103, 
+   2109, 
    257709
   ], 
   "White Blue": [
@@ -1285,7 +1285,7 @@
    0
   ], 
   "You & Me": [
-   581, 
+   582, 
    291510
   ], 
   "Your Own Miracle": [
@@ -1523,7 +1523,7 @@
    0
   ], 
   "First Kiss": [
-   1830, 
+   1840, 
    268871
   ], 
   "Flea": [
@@ -1743,8 +1743,8 @@
    0
   ], 
   "Proposed, Flower, Wolf Part 1": [
-   2342, 
-   274197
+   1734, 
+   287552
   ], 
   "Proposed, Flower, Wolf Part 2": [
    9999, 
@@ -2626,7 +2626,7 @@
    0
   ], 
   "New Beginning": [
-   1827, 
+   1826, 
    2655812
   ], 
   "Raconteur": [
